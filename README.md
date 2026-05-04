@@ -30,6 +30,7 @@ A curated collection of resources for indie mobile app developers — from desig
 | [Supabase](https://supabase.com/) | Backend |
 | [RevenueCat](https://www.revenuecat.com/) | Subscriptions |
 | [Superwall](https://superwall.com/) | Paywalls |
+| [SensorTower](https://app.sensortower.com/?app_tab=trending&category=0&app_id=6447582581) | App Analysis |
 | [AppFollow](https://appfollow.io/) | Analytics |
 | [Postiz](https://postiz.com/) | Agentic social media scheduling |
 
