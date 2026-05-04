@@ -138,6 +138,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Fastic](https://x.com/VechAlex/status/2045521925644902795)
 - [MenuFit](https://x.com/DannyIsLearning/status/2045674810349379709)
 - [Endel - Relaxation](https://x.com/cesaralvarezll/status/2047031965296030002)
+- [Speak - Language learning](https://x.com/cesaralvarezll/status/2051325688565596216)
+- [Reframe - Alcohol addiction](https://x.com/adriamatz/status/2050898481330471173)
 - [Food Scanning](https://x.com/SheikhSadi70825/status/2044263057308954979)
 
 ---
