@@ -141,6 +141,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Endel - Relaxation](https://x.com/cesaralvarezll/status/2047031965296030002)
 - [Speak - Language learning](https://x.com/cesaralvarezll/status/2051325688565596216)
 - [Reframe - Alcohol addiction](https://x.com/adriamatz/status/2050898481330471173)
+- [Focus Flight](https://x.com/matteo_spada/status/2051678619530133804)
 - [Food Scanning](https://x.com/SheikhSadi70825/status/2044263057308954979)
 
 ---
