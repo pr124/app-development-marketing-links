@@ -55,17 +55,10 @@ A curated collection of resources for indie mobile app developers — from desig
 > Remove dead code with --- Delete all dead code. Use ruff and vulture ---
 
 - [Scaled to $25k+/month — The Complete Guide](https://x.com/maubaron/status/2027551137768083619)
-- [Built 10 apps in 10 months, $800k/yr — Full guide](https://x.com/ErnestoSOFTWARE/status/2014110519913857122)
 - [Vibe Coding 2.0: 18 Rules to be the Top 1% Builder](https://x.com/Hartdrawss/status/2026198305362083910)
-- [The $10k MRR Stack — How I Ship Mobile Apps](https://x.com/WasimShips/status/2025830907358347662)
-- [30 Security Rules to be the Top 1% Vibe Coder](https://x.com/WasimShips/status/2029811248012173658)
 - [Ultimate App Submission Checklist](https://x.com/Hartdrawss/status/2022272233515712847)
-- [Greenlight — Pre-submission compliance scanner for App Store](https://github.com/RevylAI/greenlight)
-- [How to Get Your First 100 Paying Users With Zero Ad Spend](https://x.com/om_patel5/status/2032306365822017847)
-- [RevenueCat Paywalls Analysis](https://x.com/alwaysjoshp/status/2033910979353104658/)
-- [20 things that make your VIBE CODED app a SINKING SHIP](https://x.com/Hartdrawss/status/2035378419278532928)
-- [Market research for marketing](https://x.com/StevenCravotta/status/2017688871648076159)
-- [Incorporate AI in apps cheaply](https://x.com/alexcooldev/status/2044454751556014113)
+- [RevenueCat Paywalls Conversion](https://x.com/alwaysjoshp/status/2033910979353104658/)
+- [Market research from TikTok](https://x.com/StevenCravotta/status/2017688871648076159)
 
 ---
 
