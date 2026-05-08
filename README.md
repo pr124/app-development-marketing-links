@@ -102,11 +102,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 
 **Guides**
-- [Molyiachi App Paywall Design](https://x.com/ayomide_des/status/2032781289711931461)
-- [The Ultimate Design Toolkit for Builders](https://x.com/jiayun_studio/status/2028342179614064685)
-- [Mobile Homepage Layout Do's & Don'ts](https://x.com/UiSavior/status/2028982210091446510)
-- [12 Things Successful Apps Nail](https://x.com/Hartdrawss/status/2029217957537006015)
-- [How to Make Apps Not Look Vibe Coded](https://x.com/Hartdrawss/status/2027768326852681798)
 - [5 Things Profitable iOS Apps Have in Common](https://x.com/Hartdrawss/status/2025865883533406380)
 - [Google Stitch Tutorial](https://x.com/jspujji/status/2034978670687969484)
 
