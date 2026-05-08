@@ -222,7 +222,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Best Practices for Claude Code](https://x.com/Meer_AIIT/status/2027509711722188976)
 - [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619)
 - [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)
-- [How to 10x your Claude Skills (using Karpathy's autoresearch method)](https://x.com/itsolelehmann/status/2033919415771713715)
 
 ---
 
