@@ -56,6 +56,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 - [Scaled to $25k+/month — The Complete Guide](https://x.com/maubaron/status/2027551137768083619)
 - [Vibe Coding 2.0: 18 Rules to be the Top 1% Builder](https://x.com/Hartdrawss/status/2026198305362083910)
+- [Vibecode cleanup](https://x.com/shawmakesmagic/status/2044269097647779990)
 - [Ultimate App Submission Checklist](https://x.com/Hartdrawss/status/2022272233515712847)
 - [RevenueCat Paywalls Conversion](https://x.com/alwaysjoshp/status/2033910979353104658/)
 - [Market research from TikTok](https://x.com/StevenCravotta/status/2017688871648076159)
