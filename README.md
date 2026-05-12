@@ -46,7 +46,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Google Trends](https://trends.google.com/explore?geo=US) — Spot rising search interest
 - [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 - [Using TikTok Creator Search Insights to search for trending topics](https://x.com/natiakourdadze/status/2050336648077189166)
-- [The easiest path to a viral indie app right now](https://x.com/WasimShips/status/2022694971191476255)
 - [the ULTIMATE 48h doomsday guide to vibecode & scale your app to $10M ARR](https://x.com/growthsuck/status/2035991110334423469)
 
 ---
