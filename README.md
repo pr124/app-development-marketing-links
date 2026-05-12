@@ -143,6 +143,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
 - [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
 - [If I launched an IOS app today and needed $1k MRR fast, I'd do this](https://x.com/arthuryuzbashew/status/2040501406063526075)
+- [how to predict v*rality](https://x.com/fuckgrowth/status/2041580077826371733)
 - [Intro to neuromarketing](https://x.com/karlocreates/status/2044737952140398898)
 - [Finding viral videos and replicating them](https://x.com/KCodes7777/status/2046941516388516250)
 
@@ -172,7 +173,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
 - [How Brands Can Scale With UGC Content using AI Workflows](https://x.com/jacobgrowth/status/2035439474490933396)
 - [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
-- [how to predict v*rality](https://x.com/fuckgrowth/status/2041580077826371733)
 - [How to Create Your AI Model / Influencer That Generates](https://x.com/51bodila/status/2042643878226841903)
 - [How to Exploit AI to Create Fake Female Outreach Accounts ($1M+ Money Grab)](https://x.com/dimitarangg/status/2042560430409679249)
 - [How to Create High ROAS UGC Ads](https://x.com/AlessandroLavis/status/2042946012268875917)
