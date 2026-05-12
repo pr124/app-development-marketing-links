@@ -145,6 +145,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
 - [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
 - [If I launched an IOS app today and needed $1k MRR fast, I'd do this](https://x.com/arthuryuzbashew/status/2040501406063526075)
+- [Intro to neuromarketing](https://x.com/karlocreates/status/2044737952140398898)
+- [Finding viral videos and replicating them](https://x.com/KCodes7777/status/2046941516388516250)
 
 
 ---
