@@ -32,7 +32,7 @@ A curated collection of resources for indie mobile app developers — from desig
 | [Superwall](https://superwall.com/) | Paywalls |
 | [SensorTower](https://app.sensortower.com/?app_tab=trending&category=0&app_id=6447582581) | App Analysis |
 | [Sentry](https://sentry.io/welcome/) | Crash and Error tracking |
-| [AppFollow](https://appfollow.io/) | Analytics |
+| [Google Analytics](https://firebase.google.com/docs/analytics) | Analytics |
 | [Postiz](https://postiz.com/) | Agentic social media scheduling |
 
 ---
