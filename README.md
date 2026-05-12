@@ -205,8 +205,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 - [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
 - [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
-- [Health app hooks](https://x.com/tatealax/status/2032568967513207271)
-- [How to create talking object videos](https://x.com/natiakourdadze/status/2035810398180344021)
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
