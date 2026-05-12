@@ -190,6 +190,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## TikTok
 - [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
+- [TikTok Downloader](https://snaptik.app/en2)
   
 **Account Launch Strategy**
 
@@ -211,6 +212,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
 - [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
+- [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)(https://x.com/alexcooldev/status/2044820024695947654)
 
 ---
 
