@@ -139,16 +139,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## Marketing
 
-**Reddit**
-- [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
-
-**Instagram**
-
-
-**Youtube**
-
-
-
+- [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
@@ -158,7 +149,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Intro to neuromarketing](https://x.com/karlocreates/status/2044737952140398898)
 - [Finding viral videos and replicating them](https://x.com/KCodes7777/status/2046941516388516250)
 - [How We're Running AUTOMATED Viral AI UGC on YT + IG + TikTok + Facebook](https://x.com/adriansolarzz/status/2050371027780215205)
-- 
 
 
 ---
