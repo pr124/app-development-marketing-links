@@ -133,7 +133,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Reframe - Alcohol addiction](https://x.com/adriamatz/status/2050898481330471173)
 - [Focus Flight](https://x.com/matteo_spada/status/2051678619530133804)
 - [Focus Friend(game style onboarding)](https://x.com/cesaralvarezll/status/2054869365737017404)
-- [Food Scanning](https://x.com/SheikhSadi70825/status/2044263057308954979)
 
 ---
 
