@@ -138,6 +138,16 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## Marketing
 
+**Reddit**
+- [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
+
+**Instagram**
+
+
+**Youtube**
+
+
+
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
@@ -146,6 +156,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [how to predict v*rality](https://x.com/fuckgrowth/status/2041580077826371733)
 - [Intro to neuromarketing](https://x.com/karlocreates/status/2044737952140398898)
 - [Finding viral videos and replicating them](https://x.com/KCodes7777/status/2046941516388516250)
+- [How We're Running AUTOMATED Viral AI UGC on YT + IG + TikTok + Facebook](https://x.com/adriansolarzz/status/2050371027780215205)
+- 
 
 
 ---
@@ -215,6 +227,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](https://x.com/alexcooldev/status/2044820024695947654)
 - [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
 - [How to go viral on TikTok](https://x.com/rossark0/status/2051062012696821987)
+- [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step GUIDE)](https://x.com/maverickecom/status/2048771914206777752)
 
 ---
 
