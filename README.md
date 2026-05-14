@@ -206,17 +206,14 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
 - [TikTok Downloader](https://snaptik.app/en2)
   
-**Account Launch Strategy**
-
-| Phase | Days | Actions |
-|-------|------|---------|
-| Warmup | 1–7 | Create account, clean bio, scroll your niche, like/comment/follow/save — do NOT post |
-| Launch | 8–30 | Post 1 video/day, recreate proven viral formats, focus on watch time + comments, soft CTA |
-| Scale | 30+ | Double down on winning formats, 2–3 posts/day, add second account, expand platforms |
-
-**Guides**
+**Account Setup**
+- [TikTok account warmup](https://x.com/affprinter/status/2051045309728580038)
 - [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505)
 - [How to make a USA tiktok business account](https://x.com/athcanft/status/2039571658474930177)
+- [Bypassing tiktok duplication detectction system](https://x.com/affprinter/status/2050530621483548936)
+
+
+**Guides**
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 - [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
 - [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
@@ -228,6 +225,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
 - [How to go viral on TikTok](https://x.com/rossark0/status/2051062012696821987)
 - [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step GUIDE)](https://x.com/maverickecom/status/2048771914206777752)
+- [How We're Going VIRAL by Automating TikTok Slideshows With Claude Co-work + GPT Image 2](http://x.com/adriansolarzz/status/2049934006633021536)
 
 ---
 
