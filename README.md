@@ -213,6 +213,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
 - [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
 - [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](https://x.com/alexcooldev/status/2044820024695947654)
+- [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
+- [How to go viral on TikTok](https://x.com/rossark0/status/2051062012696821987)
 
 ---
 
