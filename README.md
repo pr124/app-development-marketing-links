@@ -149,7 +149,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Intro to neuromarketing](https://x.com/karlocreates/status/2044737952140398898)
 - [Finding viral videos and replicating them](https://x.com/KCodes7777/status/2046941516388516250)
 - [How We're Running AUTOMATED Viral AI UGC on YT + IG + TikTok + Facebook](https://x.com/adriansolarzz/status/2050371027780215205)
-
+- [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 
 ---
 
@@ -169,27 +169,19 @@ A curated collection of resources for indie mobile app developers — from desig
 
 
 **Guides**
-- [NanoBanana AI Content Tutorial](https://x.com/NanoBanana/status/2031739390561792084)
 - [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
 - [How to create an AI Influencer](https://x.com/FrederikFeldt/status/2044252573083779223)
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
-- [6 Viral Post Formats for Text-Wall Videos](https://x.com/SimonasDip/status/2028183619697607093)
 - [Complete Guide: AI Content Factory That Generates $50K/mo](https://x.com/kritarthmittal/status/2029505868266619030)
-- [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
-- [How Brands Can Scale With UGC Content using AI Workflows](https://x.com/jacobgrowth/status/2035439474490933396)
 - [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
 - [How to Create Your AI Model / Influencer That Generates](https://x.com/51bodila/status/2042643878226841903)
 - [How to Exploit AI to Create Fake Female Outreach Accounts ($1M+ Money Grab)](https://x.com/dimitarangg/status/2042560430409679249)
 - [How to Create High ROAS UGC Ads](https://x.com/AlessandroLavis/status/2042946012268875917)
 - [How literal kids are making thousands per day with AI](https://x.com/Ecom_Linus/status/2042996126320677073)
-- [Seedance 2.0 Full Step-By-Step Guide + Advanced Techniques](https://x.com/Mho_23/status/2043060741616603442)
-- [Build a Automated AI System with Claude + Seedance 2.0](https://x.com/spwfeijen/status/2043692176689795202)
 - [the dark psychology behind AI UGC that prints](https://x.com/adriansolarzz/status/2043751295572742448)
 - [How To Make AI UGC That ACTUALLY Converts](https://x.com/pounddz/status/2043965298923999447)
-- [We spent $150,000 on Seedance 2 credits and achieved video AGI](https://x.com/starks_arq/status/2043007296477823216)
 - [how to build an AI content machine (step-by-step playbook)](https://x.com/sferro21/status/2043685806443773988)
-- [The Seedance 2.0 Prompting Bible](https://x.com/EXM7777/status/2044072293383712878)
 
 ---
 
