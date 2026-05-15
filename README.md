@@ -182,6 +182,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [the dark psychology behind AI UGC that prints](https://x.com/adriansolarzz/status/2043751295572742448)
 - [How To Make AI UGC That ACTUALLY Converts](https://x.com/pounddz/status/2043965298923999447)
 - [how to build an AI content machine (step-by-step playbook)](https://x.com/sferro21/status/2043685806443773988)
+- [how to get good at UGC in one month](https://x.com/alexolim_/status/2044792086122082307)
 
 ---
 
