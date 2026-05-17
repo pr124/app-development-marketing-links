@@ -113,6 +113,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505)
 - [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806)
 - [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725)
+- [Abmaxx breakdown](https://x.com/LinoLeighton/status/2055684421018124717)
 - [Opal (breakdown 1)](https://x.com/cesaralvarezll/status/2032513612497969591)
 - [Opal (breakdown 2)](https://x.com/alice_ercolani/status/2036004810621948034)
 - [Amora](https://x.com/jacobrodri_/status/2052772037366821116)
