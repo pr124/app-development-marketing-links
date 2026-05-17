@@ -151,6 +151,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Finding viral videos and replicating them](https://x.com/KCodes7777/status/2046941516388516250)
 - [How We're Running AUTOMATED Viral AI UGC on YT + IG + TikTok + Facebook](https://x.com/adriansolarzz/status/2050371027780215205)
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
+- [How We Grew an Instagram Account From 0 to 43,000+ in ONE Week Using Carousels](https://x.com/adriansolarzz/status/2055831018104361239)
 
 ---
 
