@@ -143,6 +143,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
+- [Social media comments and AI personalised messages to get users](https://x.com/_aaronpaul25/status/2054980736445276191)
 - [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
 - [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
