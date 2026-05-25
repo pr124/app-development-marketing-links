@@ -139,6 +139,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Focus Friend(game style onboarding)](https://x.com/cesaralvarezll/status/2054869365737017404)
 - [Fitia Calorie counter](https://x.com/VechAlex/status/2055326838923186255)
 - [Gravl Personal trainer(premium design)](https://x.com/adriamatz/status/2058804821809934636)
+- [Quabble Duck mascot](https://x.com/cesaralvarezll/status/2058938886659678389)
 
 ---
 
