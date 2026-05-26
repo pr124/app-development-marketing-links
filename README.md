@@ -147,6 +147,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
+- [the dark psychology for hooks/captions](https://x.com/adriansolarzz/status/2043751295572742448)
 - [Social media comments and AI personalised messages to get users](https://x.com/_aaronpaul25/status/2054980736445276191)
 - [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
@@ -157,36 +158,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How We're Running AUTOMATED Viral AI UGC on YT + IG + TikTok + Facebook](https://x.com/adriansolarzz/status/2050371027780215205)
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [Instagram Carousels tutorial + warmup](https://x.com/adriansolarzz/status/2055831018104361239)
-
----
-
-## UGC & Content Creation
-
-**Tools**
-- [Apify - Web scraper](https://apify.com/store)
-- [Arcads](https://www.arcads.ai/)
-- [Runway](https://runwayml.com/)
-- [HeyGen](https://www.heygen.com/en-gb)
-- [Pollo](https://pollo.ai/)
-- [CapCut](https://www.capcut.com/)
-- [Bluma](https://www.getbluma.com/)
-- [Freepik](https://www.freepik.com/app)
-- [Reel Farm](https://reel.farm/)
-- [MakeUGC](https://www.makeugc.ai/)
-
-
-**Guides**
-- [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
-- [How to create an AI Influencer](https://x.com/FrederikFeldt/status/2044252573083779223)
-- [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
-- [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
-- [How to Exploit AI to Create Fake Female Outreach Accounts ($1M+ Money Grab)](https://x.com/dimitarangg/status/2042560430409679249)
-- [How to Create High ROAS UGC Ads](https://x.com/AlessandroLavis/status/2042946012268875917)
-- [How literal kids are making thousands per day with AI](https://x.com/Ecom_Linus/status/2042996126320677073)
-- [the dark psychology behind AI UGC that prints](https://x.com/adriansolarzz/status/2043751295572742448)
-- [How To Make AI UGC That ACTUALLY Converts](https://x.com/pounddz/status/2043965298923999447)
-- [how to build an AI content machine (step-by-step playbook)](https://x.com/sferro21/status/2043685806443773988)
-- [how to get good at UGC in one month](https://x.com/alexolim_/status/2044792086122082307)
 
 ---
 
@@ -215,6 +186,31 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to go viral on TikTok](https://x.com/rossark0/status/2051062012696821987)
 - [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step GUIDE)](https://x.com/maverickecom/status/2048771914206777752)
 - [How We're Going VIRAL by Automating TikTok Slideshows With Claude Co-work + GPT Image 2](http://x.com/adriansolarzz/status/2049934006633021536)
+
+---
+
+## UGC & Content Creation
+
+**Tools**
+- [Apify - Web scraper](https://apify.com/store)
+- [Arcads](https://www.arcads.ai/)
+- [Runway](https://runwayml.com/)
+- [HeyGen](https://www.heygen.com/en-gb)
+- [Pollo](https://pollo.ai/)
+- [CapCut](https://www.capcut.com/)
+- [Bluma](https://www.getbluma.com/)
+- [Freepik](https://www.freepik.com/app)
+- [Reel Farm](https://reel.farm/)
+- [MakeUGC](https://www.makeugc.ai/)
+
+
+**Guides**
+- [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
+- [How to create an AI Influencer](https://x.com/FrederikFeldt/status/2044252573083779223)
+- [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
+- [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
+- [how to build an AI content machine (step-by-step playbook)](https://x.com/sferro21/status/2043685806443773988)
+- [how to get good at UGC in one month](https://x.com/alexolim_/status/2044792086122082307)
 
 ---
 
