@@ -179,7 +179,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
 - [How to create an AI Influencer](https://x.com/FrederikFeldt/status/2044252573083779223)
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
-- [Complete Guide: AI Content Factory That Generates $50K/mo](https://x.com/kritarthmittal/status/2029505868266619030)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
 - [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
 - [How to Create Your AI Model / Influencer That Generates](https://x.com/51bodila/status/2042643878226841903)
