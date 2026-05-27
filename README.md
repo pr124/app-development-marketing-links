@@ -159,6 +159,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How We're Running AUTOMATED Viral AI UGC on YT + IG + TikTok + Facebook](https://x.com/adriansolarzz/status/2050371027780215205)
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [Instagram Carousels tutorial + warmup](https://x.com/adriansolarzz/status/2055831018104361239)
+- [Our Entire AI Instagram Carousel Workflow (Step-by-Step)](https://x.com/ugcmaxxr/status/2057145596289405284)
+- [How To Print With Meta Carousels](https://x.com/adriansolarzz/status/2058336861462958248)
 
 ---
 
@@ -174,19 +176,28 @@ A curated collection of resources for indie mobile app developers — from desig
 
 
 **Guides**
+- [How to Run TikTok Ads for Mobile Apps](https://x.com/_frederickjames/status/2058918238046613507)
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 - [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
 - [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
-- [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
-- [Analyzed 1,000+ Slideshows - slide 2 is as important as 1](https://x.com/adriansolarzz/status/2057951578854695211) 
-- [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
-- [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](https://x.com/alexcooldev/status/2044820024695947654)
-- [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
 - [How to go viral on TikTok](https://x.com/rossark0/status/2051062012696821987)
+- [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
+- [How to create a US TikTok automatic posting service for dummies](https://x.com/MikelCobian/status/2057019625372574184)
+- [How I automated my TikTok content workflow from scratch](https://x.com/adriamatz/status/2057074664145322161)
+
+
+**Slideshows**
+- [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
+- [Analyzed 1,000+ Slideshows - slide 2 is as important as 1](https://x.com/adriansolarzz/status/2057951578854695211) 
+- [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](https://x.com/alexcooldev/status/2044820024695947654)
+- [The 5 minute slideshow format that became my best converting TikTok content](https://x.com/adriamatz/status/2059558072582873134)
+- [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
 - [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step GUIDE)](https://x.com/maverickecom/status/2048771914206777752)
 - [How We're Going VIRAL by Automating TikTok Slideshows With Claude Co-work + GPT Image 2](http://x.com/adriansolarzz/status/2049934006633021536)
+- [Our Entire AI TikTok Slideshow Workflow (Step-by-Step)](https://x.com/adriansolarzz/status/2056515908223336525)
+- [How to Make Your First $994,414.34 With AI Slideshows](https://x.com/ugcmaxxr/status/2056509076729651577)
 
 ---
 
