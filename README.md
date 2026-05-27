@@ -47,6 +47,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Google Trends](https://trends.google.com/explore?geo=US) — Spot rising search interest
 - [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 - [Using TikTok Creator Search Insights to search for trending topics](https://x.com/natiakourdadze/status/2050336648077189166)
+- [I'm 16 and scaled an app to $30,000 MRR. Here's the full playbook](https://x.com/KevinBelfort_30/status/2059380434572595411)
 
 ---
 
