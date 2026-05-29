@@ -168,29 +168,27 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
 - [TikTok Downloader](https://snaptik.app/en2)
   
-**Account Setup**
+**Account and Ads Setup**
 - [TikTok account warmup](https://x.com/affprinter/status/2051045309728580038)
 - [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505)
 - [How to make a USA tiktok business account](https://x.com/athcanft/status/2039571658474930177)
 - [Bypassing tiktok duplication detectction system](https://x.com/affprinter/status/2050530621483548936)
+- [How to Run TikTok Ads for Mobile Apps](https://x.com/_frederickjames/status/2058918238046613507)
 
 
 **Guides**
-- [How to Run TikTok Ads for Mobile Apps](https://x.com/_frederickjames/status/2058918238046613507)
+- [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 - [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
-- [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
 - [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
-- [How to go viral on TikTok](https://x.com/rossark0/status/2051062012696821987)
-- [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
 - [How to create a US TikTok automatic posting service for dummies](https://x.com/MikelCobian/status/2057019625372574184)
-- [How I automated my TikTok content workflow from scratch](https://x.com/adriamatz/status/2057074664145322161)
 
 
 **Slideshows**
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
-- [Analyzed 1,000+ Slideshows - slide 2 is as important as 1](https://x.com/adriansolarzz/status/2057951578854695211) 
+- [Analyzed 1,000+ Slideshows - slide 2 is as important as 1](https://x.com/adriansolarzz/status/2057951578854695211)
+- [How I automated my TikTok content workflow from scratch](https://x.com/adriamatz/status/2057074664145322161)
 - [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](https://x.com/alexcooldev/status/2044820024695947654)
 - [The 5 minute slideshow format that became my best converting TikTok content](https://x.com/adriamatz/status/2059558072582873134)
 - [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
@@ -205,15 +203,15 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Tools**
 - [Apify - Web scraper](https://apify.com/store)
-- [Arcads](https://www.arcads.ai/)
-- [Runway](https://runwayml.com/)
-- [HeyGen](https://www.heygen.com/en-gb)
-- [Pollo](https://pollo.ai/)
-- [CapCut](https://www.capcut.com/)
-- [Bluma](https://www.getbluma.com/)
-- [Freepik](https://www.freepik.com/app)
-- [Reel Farm](https://reel.farm/)
-- [MakeUGC](https://www.makeugc.ai/)
+- [Arcads - Video gen](https://www.arcads.ai/)
+- [Runway - Video gen](https://runwayml.com/)
+- [HeyGen - Video gen](https://www.heygen.com/en-gb)
+- [Pollo - Video gen](https://pollo.ai/)
+- [CapCut - Editing](https://www.capcut.com/)
+- [Bluma - AI engine](https://www.getbluma.com/)
+- [Freepik - Pictures](https://www.freepik.com/app)
+- [Reel Farm - Slideshow generator](https://reel.farm/)
+- [MakeUGC - AI UGC](https://www.makeugc.ai/)
 
 
 **Guides**
