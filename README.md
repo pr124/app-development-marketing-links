@@ -186,16 +186,12 @@ A curated collection of resources for indie mobile app developers — from desig
 
 
 **Slideshows**
+- [How I automated my TikTok content workflow from scratch](https://x.com/adriamatz/status/2057074664145322161)
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [Analyzed 1,000+ Slideshows - slide 2 is as important as 1](https://x.com/adriansolarzz/status/2057951578854695211)
-- [How I automated my TikTok content workflow from scratch](https://x.com/adriamatz/status/2057074664145322161)
-- [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](https://x.com/alexcooldev/status/2044820024695947654)
 - [The 5 minute slideshow format that became my best converting TikTok content](https://x.com/adriamatz/status/2059558072582873134)
 - [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
 - [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step GUIDE)](https://x.com/maverickecom/status/2048771914206777752)
-- [How We're Going VIRAL by Automating TikTok Slideshows With Claude Co-work + GPT Image 2](http://x.com/adriansolarzz/status/2049934006633021536)
-- [Our Entire AI TikTok Slideshow Workflow (Step-by-Step)](https://x.com/adriansolarzz/status/2056515908223336525)
-- [How to Make Your First $994,414.34 With AI Slideshows](https://x.com/ugcmaxxr/status/2056509076729651577)
 
 ---
 
