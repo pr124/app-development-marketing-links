@@ -167,6 +167,9 @@ A curated collection of resources for indie mobile app developers — from desig
 ## TikTok
 - [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
 - [TikTok Downloader](https://snaptik.app/en2)
+- [CapCut - Editing](https://www.capcut.com/)
+- [Reel Farm - Slideshow generator](https://reel.farm/)
+
   
 **Account and Ads Setup**
 - [TikTok account warmup](https://x.com/affprinter/status/2051045309728580038)
@@ -203,10 +206,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Runway - Video gen](https://runwayml.com/)
 - [HeyGen - Video gen](https://www.heygen.com/en-gb)
 - [Pollo - Video gen](https://pollo.ai/)
-- [CapCut - Editing](https://www.capcut.com/)
 - [Bluma - AI engine](https://www.getbluma.com/)
-- [Freepik - Pictures](https://www.freepik.com/app)
-- [Reel Farm - Slideshow generator](https://reel.farm/)
+- [Magnific - Video gen](https://www.freepik.com/app)
 - [MakeUGC - AI UGC](https://www.makeugc.ai/)
 
 
