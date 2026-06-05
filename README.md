@@ -167,7 +167,7 @@ A curated collection of resources for indie mobile app developers — from desig
 ## TikTok
 - [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
 - [TikTok Downloader](https://snaptik.app/en2)
-- [Pinterest](pinterest.com)
+- [Pinterest](https://pinterest.com)
 - [CapCut - Editing](https://www.capcut.com/)
 - [Reel Farm - Slideshow generator](https://reel.farm/)
 
