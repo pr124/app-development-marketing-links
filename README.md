@@ -114,6 +114,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 - [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
 - [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505)
+- [Anything](https://x.com/heysatya_/status/2065705525380321529)
 - [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806)
 - [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725)
 - [Abmaxx breakdown](https://x.com/LinoLeighton/status/2055684421018124717)
