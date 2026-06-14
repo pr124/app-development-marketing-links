@@ -204,6 +204,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Tools**
 - [Apify - Web scraper](https://apify.com/store)
+- [SlideShift - UGC recruitment](https://sideshift.app/) 
 - [Arcads - Video gen](https://www.arcads.ai/)
 - [Runway - Video gen](https://runwayml.com/)
 - [HeyGen - Video gen](https://www.heygen.com/en-gb)
