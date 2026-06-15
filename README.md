@@ -146,9 +146,11 @@ A curated collection of resources for indie mobile app developers — from desig
 ---
 
 ## Marketing
+**Tools**
 - [Postiz - Post scheduling to all social media](https://postiz.com/)
 - [Post Bridge - Post scheduling to all social media](https://www.post-bridge.com/)
 
+**Guides**
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [the dark psychology for hooks/captions](https://x.com/adriansolarzz/status/2043751295572742448)
