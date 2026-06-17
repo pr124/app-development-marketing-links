@@ -35,6 +35,7 @@ A curated collection of resources for indie mobile app developers — from desig
 | [Sentry](https://sentry.io/welcome/) | Crash and Error tracking |
 | [Google Analytics](https://firebase.google.com/docs/analytics) | Analytics |
 | [Postiz](https://postiz.com/) | Agentic social media scheduling |
+| [TrustMRR](https://trustmrr.com/) | Startup Revenues
 
 ---
 
@@ -43,7 +44,6 @@ A curated collection of resources for indie mobile app developers — from desig
 > Profitable niches usually have 3 things: a clear before/after, a subscription people don't cancel, and a daily habit.
 
 - [App Store Tracker](https://www.appstoretracker.com/) — Track trending apps
-- [Apps for sale](https://flippa.com/apps) - Search popular apps to see demand
 - [Google Trends](https://trends.google.com/explore?geo=US) — Spot rising search interest
 - [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 - [Using TikTok Creator Search Insights to search for trending topics](https://x.com/natiakourdadze/status/2050336648077189166)
