@@ -74,6 +74,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Coolors](https://coolors.co/) — Palette generator
 
 **Icons**
+- [Popular App Icons](https://icon.museum/)
 
 | Library | Pricing |
 |---------|---------|
