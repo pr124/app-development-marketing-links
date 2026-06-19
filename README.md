@@ -114,6 +114,7 @@ A curated collection of resources for indie mobile app developers — from desig
 ## Onboarding
 
 - [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
+- [$184,000,000/ year 5 onboarding flows](https://x.com/itsjahmills/status/2067965885751410865)
 - [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505)
 - [Anything](https://x.com/heysatya_/status/2065705525380321529)
 - [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806)
