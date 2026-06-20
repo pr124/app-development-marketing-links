@@ -113,7 +113,6 @@ A curated collection of resources for indie mobile app developers — from desig
 ---
 
 ## Onboarding
-
 **App Onboarding**
 - [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505)
 - [Anything](https://x.com/heysatya_/status/2065705525380321529)
