@@ -114,8 +114,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## Onboarding
 
-- [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
-- [$184,000,000/ year 5 onboarding flows](https://x.com/itsjahmills/status/2067965885751410865)
+**App Onboarding**
 - [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505)
 - [Anything](https://x.com/heysatya_/status/2065705525380321529)
 - [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806)
@@ -147,6 +146,11 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Quabble Duck mascot](https://x.com/cesaralvarezll/status/2058938886659678389)
 - [SunSafe](https://x.com/VechAlex/status/2066920163358732793)
 
+**Guides**
+- [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
+- [$184,000,000/ year 5 onboarding flows](https://x.com/itsjahmills/status/2067965885751410865)
+- [Using commitment signature](https://x.com/rossark0/status/2068098777433743531)
+
 ---
 
 ## Marketing
@@ -156,6 +160,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Publora - Publishing API](https://publora.com/)
 
 **Guides**
+- [SEO guide for app website](https://x.com/manoj_ahi/status/2068266547098054722)
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [the dark psychology for hooks/captions](https://x.com/adriansolarzz/status/2043751295572742448)
