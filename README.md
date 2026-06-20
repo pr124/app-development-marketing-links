@@ -30,7 +30,7 @@ A curated collection of resources for indie mobile app developers — from desig
 | [Supabase](https://supabase.com/) | Backend |
 | [RevenueCat](https://www.revenuecat.com/) | Subscriptions |
 | [Superwall](https://superwall.com/) | Paywalls |
-| [PostHog](https://posthog.com/) | Developer Tools |
+| [Posthog](https://posthog.com/) | Developer Tools |
 | [Astro](https://tryastro.app/) | ASO |
 | [SensorTower](https://app.sensortower.com/?app_tab=trending&category=0&app_id=6447582581) | App Analysis |
 | [Sentry](https://sentry.io/welcome/) | Crash and Error tracking |
