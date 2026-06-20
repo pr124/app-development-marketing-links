@@ -60,6 +60,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Vibe Coding 3.0 : 13 Rules to Shipping a Production-Ready App](https://x.com/Hartdrawss/status/2057401469499035969)
 - [Vibe Coding 2.0: 18 Rules to be the Top 1% Builder](https://x.com/Hartdrawss/status/2026198305362083910)
 - [Vibecode cleanup](https://x.com/shawmakesmagic/status/2044269097647779990)
+- [Why app is not making any money](https://x.com/Cuki98/status/2067477048072028501)
 - [Ultimate App Submission Checklist](https://x.com/Hartdrawss/status/2022272233515712847)
 - [RevenueCat Paywalls Conversion](https://x.com/alwaysjoshp/status/2033910979353104658/)
 - [Market research from TikTok](https://x.com/StevenCravotta/status/2017688871648076159)
