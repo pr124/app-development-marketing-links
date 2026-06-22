@@ -145,6 +145,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Gravl Personal trainer(premium design)](https://x.com/adriamatz/status/2058804821809934636)
 - [Quabble Duck mascot](https://x.com/cesaralvarezll/status/2058938886659678389)
 - [SunSafe](https://x.com/VechAlex/status/2066920163358732793)
+- [Finch](https://x.com/JeremyLasne/status/2069005489493463417)
 
 **Guides**
 - [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
