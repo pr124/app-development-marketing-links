@@ -164,6 +164,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Guides**
 - [SEO guide for app website](https://x.com/manoj_ahi/status/2068266547098054722)
+- [High converting ASO markets to target](https://x.com/xburak/status/2072379725738037382)
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [the dark psychology for hooks/captions](https://x.com/adriansolarzz/status/2043751295572742448)
