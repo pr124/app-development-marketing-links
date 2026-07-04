@@ -32,6 +32,7 @@ A curated collection of resources for indie mobile app developers — from desig
 | [Superwall](https://superwall.com/) | Paywalls |
 | [Posthog](https://posthog.com/) | Developer Tools |
 | [Astro](https://tryastro.app/) | ASO |
+| [AppStore Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) | AppStore CLI |
 | [SensorTower](https://app.sensortower.com/?app_tab=trending&category=0&app_id=6447582581) | App Analysis |
 | [Sentry](https://sentry.io/welcome/) | Crash and Error tracking |
 | [Google Analytics](https://firebase.google.com/docs/analytics) | Analytics |
