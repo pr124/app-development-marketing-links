@@ -158,6 +158,8 @@ A curated collection of resources for indie mobile app developers — from desig
 ---
 
 ## Marketing
+<img width="1252" height="1140" alt="image" src="https://github.com/user-attachments/assets/fbaa6289-1e86-4686-81f6-fa4d41c79112" />
+
 **Tools**
 - [Postiz - Post scheduling to all social media](https://postiz.com/)
 - [Post Bridge - Post scheduling to all social media](https://www.post-bridge.com/)
