@@ -158,7 +158,7 @@ A curated collection of resources for indie mobile app developers — from desig
 ---
 
 ## Marketing
-<img width="1252" height="1140" alt="image" src="https://github.com/user-attachments/assets/fbaa6289-1e86-4686-81f6-fa4d41c79112" />
+<img width="1200" height="1093" alt="image" src="https://github.com/user-attachments/assets/39f7fe28-c89f-4318-9db7-95dd58eeae7f" />
 
 **Tools**
 - [Postiz - Post scheduling to all social media](https://postiz.com/)
@@ -167,7 +167,6 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Guides**
 - [SEO guide for app website](https://x.com/manoj_ahi/status/2068266547098054722)
-- [High converting ASO markets to target](https://x.com/xburak/status/2072379725738037382)
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [the dark psychology for hooks/captions](https://x.com/adriansolarzz/status/2043751295572742448)
