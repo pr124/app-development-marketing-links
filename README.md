@@ -158,7 +158,7 @@ A curated collection of resources for indie mobile app developers — from desig
 ---
 
 ## Marketing
-<img width="1200" height="1093" alt="image" src="https://github.com/user-attachments/assets/39f7fe28-c89f-4318-9db7-95dd58eeae7f" />
+<img width="600" height="593" alt="image" src="https://github.com/user-attachments/assets/39f7fe28-c89f-4318-9db7-95dd58eeae7f" />
 
 **Tools**
 - [Postiz - Post scheduling to all social media](https://postiz.com/)
