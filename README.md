@@ -151,6 +151,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Finch](https://x.com/JeremyLasne/status/2069005489493463417)
 - [DAWG - Game themed app](https://x.com/adriamatz/status/2075110088356900929)
 - [Ahead](https://x.com/NathanGeckler/status/2075047318458347900)
+- [FishAI](https://x.com/adriamatz/status/2075472668812361920)
 
 **Guides**
 - [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
