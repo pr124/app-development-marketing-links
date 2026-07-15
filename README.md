@@ -167,6 +167,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Postiz - Post scheduling to all social media](https://postiz.com/)
 - [Post Bridge - Post scheduling to all social media](https://www.post-bridge.com/)
 - [Publora - Publishing API](https://publora.com/)
+- [MediaFast - Reddit SEO](https://www.mediafa.st/)
 
 **Guides**
 - [SEO guide for app website](https://x.com/manoj_ahi/status/2068266547098054722)
@@ -232,6 +233,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Runway - Video gen](https://runwayml.com/)
 - [HeyGen - Video gen](https://www.heygen.com/en-gb)
 - [Pollo - Video gen](https://pollo.ai/)
+- [Fastlane - Video gen](https://www.usefastlane.ai/)
 - [Bluma - AI engine](https://www.getbluma.com/)
 - [Magnific - Video gen](https://www.freepik.com/app)
 - [MakeUGC - AI UGC](https://www.makeugc.ai/)
