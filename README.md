@@ -149,6 +149,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Quabble Duck mascot](https://x.com/cesaralvarezll/status/2058938886659678389)
 - [SunSafe](https://x.com/VechAlex/status/2066920163358732793)
 - [Finch](https://x.com/JeremyLasne/status/2069005489493463417)
+- [Brainrot - brain mascot](https://x.com/cesaralvarezll/status/2078130587194257651)
 - [DAWG - Game themed app](https://x.com/adriamatz/status/2075110088356900929)
 - [Ahead](https://x.com/NathanGeckler/status/2075047318458347900)
 - [FishAI](https://x.com/adriamatz/status/2075472668812361920)
