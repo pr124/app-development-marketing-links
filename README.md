@@ -5,8 +5,7 @@ A curated collection of resources for indie mobile app developers — from desig
 ## Table of Contents
 
 - [General](#general)
-- [Ideas & Niches](#ideas--niches)
-- [Guides & Checklists](#guides--checklists)
+- [Ideas & Guides](#ideas--guides)
 - [Fonts, Colors & Icons](#fonts-colors--icons)
 - [UI/UX Design](#uiux-design)
 - [Onboarding](#onboarding)
@@ -41,7 +40,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ---
 
-## Ideas & Niches
+## Ideas & Guides
 
 <img width="574" height="442" alt="image" src="https://github.com/user-attachments/assets/7b53f6c0-be1a-49ff-91d0-9ee033313921" />
 
@@ -52,19 +51,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 - [Using TikTok Creator Search Insights to search for trending topics](https://x.com/natiakourdadze/status/2050336648077189166)
 - [I'm 16 and scaled an app to $30,000 MRR. Here's the full playbook](https://x.com/KevinBelfort_30/status/2059380434572595411)
-
----
-
-## Guides & Checklists
-
-> Remove dead code with --- Delete all dead code. Use ruff and vulture ---
-
 - [Scaled to $25k+/month — The Complete Guide](https://x.com/maubaron/status/2027551137768083619)
-- [Vibe Coding 3.0 : 13 Rules to Shipping a Production-Ready App](https://x.com/Hartdrawss/status/2057401469499035969)
-- [Vibe Coding 2.0: 18 Rules to be the Top 1% Builder](https://x.com/Hartdrawss/status/2026198305362083910)
 - [Vibecode cleanup](https://x.com/shawmakesmagic/status/2044269097647779990)
-- [Why app is not making any money](https://x.com/Cuki98/status/2067477048072028501)
-- [Ultimate App Submission Checklist](https://x.com/Hartdrawss/status/2022272233515712847)
 - [RevenueCat Paywalls Conversion](https://x.com/alwaysjoshp/status/2033910979353104658/)
 - [Market research from TikTok](https://x.com/StevenCravotta/status/2017688871648076159)
 
