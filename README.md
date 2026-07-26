@@ -69,9 +69,6 @@ A curated collection of resources for indie mobile app developers — from desig
 **Icons**
 - [Popular App Icons](https://icon.museum/)
 
-**Animations**
-- [Lottie](https://lottiefiles.com/)
-
 | Library | Pricing |
 |---------|---------|
 | [Lucide](https://lucide.dev/) | Free |
@@ -88,6 +85,9 @@ A curated collection of resources for indie mobile app developers — from desig
 ## UI/UX Design
 
 > Profitable iOS apps have 1 thing in common — 3 easy retention loops: **streaks**, **reminders**, **weekly recaps**. Retention > features.
+
+**Animations**
+- [Lottie](https://lottiefiles.com/)
 
 **Inspiration & Research**
 - [Mobbin](https://mobbin.com/)
