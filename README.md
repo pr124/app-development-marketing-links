@@ -69,6 +69,9 @@ A curated collection of resources for indie mobile app developers — from desig
 **Icons**
 - [Popular App Icons](https://icon.museum/)
 
+**Animations**
+- [Lottie](https://lottiefiles.com/)
+
 | Library | Pricing |
 |---------|---------|
 | [Lucide](https://lucide.dev/) | Free |
@@ -156,6 +159,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Postiz - Post scheduling to all social media](https://postiz.com/)
 - [Post Bridge - Post scheduling to all social media](https://www.post-bridge.com/)
 - [Publora - Publishing API](https://publora.com/)
+- [VidAI - AI Videos](https://vid.ai/)
 - [MediaFast - Reddit SEO](https://www.mediafa.st/)
 
 **Guides**
