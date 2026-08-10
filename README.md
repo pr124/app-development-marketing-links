@@ -163,10 +163,12 @@ A curated collection of resources for indie mobile app developers — from desig
 - [VidAI - AI Videos](https://vid.ai/)
 - [MediaFast - Reddit SEO](https://www.mediafa.st/)
 
+
 **SEO**
 - [10 SEO strategies](https://x.com/hridoyreh/status/2079502017647759871)
 - [SEO guide for app website](https://x.com/manoj_ahi/status/2068266547098054722)
 - [Quick search ranking](https://x.com/Timb03/status/2086608189894840595)
+
 
 **Guides**
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
