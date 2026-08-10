@@ -21,8 +21,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 | Resource | Category |
 |----------|----------|
-| [Google Stitch](https://stitch.withgoogle.com/) | Design |
-| [Figma Community](https://www.figma.com/community/mobile-apps/) | Design |
+| [Design Engineer Tools](https://designengineer.tools/https://designengineer.tools/) | Design |
 | [Canva](https://www.canva.com/) | Design |
 | [ScreenDesign](https://screensdesign.com/) | Onboarding |
 | [Vercel](https://vercel.com/) | Hosting |
