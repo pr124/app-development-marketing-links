@@ -113,6 +113,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806)
 - [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725)
 - [Abmaxx breakdown](https://x.com/LinoLeighton/status/2055684421018124717)
+- [Focus Town - Animal crossing](https://x.com/cesaralvarezll/status/2085442862628687876)
 - [Opal (breakdown 1)](https://x.com/cesaralvarezll/status/2032513612497969591)
 - [Opal (breakdown 2)](https://x.com/alice_ercolani/status/2036004810621948034)
 - [Amora](https://x.com/jacobrodri_/status/2052772037366821116)
@@ -142,6 +143,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Brainrot - brain mascot](https://x.com/cesaralvarezll/status/2078130587194257651)
 - [DAWG - Game themed app](https://x.com/adriamatz/status/2075110088356900929)
 - [Ahead](https://x.com/NathanGeckler/status/2075047318458347900)
+- [Me+ Lifestyle Routine - sell the product through onboarding](https://x.com/NathanGeckler/status/2080509129387389182)
 - [FishAI](https://x.com/adriamatz/status/2075472668812361920)
 
 **Guides**
