@@ -74,10 +74,6 @@ A curated collection of resources for indie mobile app developers — from desig
 | [Phosphor Icons](https://phosphoricons.com/) | Free |
 | [Tabler Icons](https://tabler.io/icons) | Free |
 | [Iconoir](https://iconoir.com/) | Free |
-| [Solar Icons](https://solar-icons.vercel.app/) | Free + Paid |
-| [Huge Icons](https://hugeicons.com/) | Free + Paid |
-| [Line Icons](https://lineicons.com/) | Free + Paid |
-| [Streamline](https://www.streamlinehq.com/) | Paid |
 
 ---
 
