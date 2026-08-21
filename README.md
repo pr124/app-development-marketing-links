@@ -83,6 +83,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Animations**
 - [Lottie](https://lottiefiles.com/)
+- [Anim8](https://www.tryanim8.com/#product)
 - [Transitions](https://transitions.dev/)
 
 **Inspiration & Research**
