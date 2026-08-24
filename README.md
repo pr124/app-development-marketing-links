@@ -193,6 +193,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Pinterest](https://pinterest.com)
 - [CapCut - Editing](https://www.capcut.com/)
 - [Reel Farm - Slideshow generator](https://reel.farm/)
+- [Scroll Show - Slideshow MCP](https://scroll.show/#)
 
   
 **Account and Ads Setup**
