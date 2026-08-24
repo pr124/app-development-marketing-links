@@ -100,7 +100,8 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Guides**
 - [5 Things Profitable iOS Apps Have in Common](https://x.com/Hartdrawss/status/2025865883533406380)
-- [Google Stitch Tutorial](https://x.com/jspujji/status/2034978670687969484)
+- [Fix These 5 Screens to Make Your App Look 10x Better](https://x.com/heysatya_/status/2087165671583150546)
+- [How to Make Your App Look & Feel 10x Better](https://x.com/heysatya_/status/2078444307418345639)
 
 ---
 
