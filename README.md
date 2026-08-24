@@ -96,7 +96,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Skills**
 - [Design/UI/UX Skills](https://impeccable.style/)
-- [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+- [UI skills list](https://www.ui-skills.com/)
 
 **Guides**
 - [5 Things Profitable iOS Apps Have in Common](https://x.com/Hartdrawss/status/2025865883533406380)
