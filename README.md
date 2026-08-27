@@ -144,6 +144,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Ahead](https://x.com/NathanGeckler/status/2075047318458347900)
 - [Me+ Lifestyle Routine - sell the product through onboarding](https://x.com/NathanGeckler/status/2080509129387389182)
 - [FishAI](https://x.com/adriamatz/status/2075472668812361920)
+- [BePresent](https://x.com/VechAlex/status/2092659052702507103)
 
 **Guides**
 - [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
