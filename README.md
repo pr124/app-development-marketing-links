@@ -147,10 +147,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [BePresent](https://x.com/VechAlex/status/2092659052702507103)
 
 **Guides**
-- [Onboarding guide](https://x.com/cesaralvarezll/status/2058845832816816566)
 - [Onboarding Structure Behind a 94% Paywall View Rate](https://x.com/maxzrco/status/2086919205601820831)
-- [$184,000,000/ year 5 onboarding flows](https://x.com/itsjahmills/status/2067965885751410865)
-- [Using commitment signature](https://x.com/rossark0/status/2068098777433743531)
 
 ---
 
