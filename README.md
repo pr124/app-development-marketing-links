@@ -198,126 +198,170 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 
 <img width="500" height="493" alt="image" src="https://github.com/user-attachments/assets/39f7fe28-c89f-4318-9db7-95dd58eeae7f" />
 
-### Tools
+Tools and playbooks for acquiring users, improving discoverability, and producing repeatable growth campaigns.
 
-- [Postiz - Post scheduling to all social media](https://postiz.com/)
-- [Post Bridge - Post scheduling to all social media](https://www.post-bridge.com/)
-- [Publora - Publishing API](https://publora.com/)
-- [VidAI - AI Videos](https://vid.ai/)
-- [MediaFast - Reddit SEO](https://www.mediafa.st/)
+### Toolkit
 
+- [Postiz](https://postiz.com/) - Schedule content across social platforms.
+- [Post Bridge](https://www.post-bridge.com/) - Publish and schedule social content.
+- [Publora](https://publora.com/) - Add social publishing to automated workflows via API.
+- [VidAI](https://vid.ai/) - Generate AI video content.
+- [MediaFast](https://www.mediafa.st/) - Build visibility through Reddit SEO.
 
-### SEO
+<details>
+<summary><strong>SEO & Discoverability</strong> — 3 playbooks</summary>
 
-- [10 SEO strategies](https://x.com/hridoyreh/status/2079502017647759871)
-- [SEO guide for app website](https://x.com/manoj_ahi/status/2068266547098054722)
-- [Quick search ranking](https://x.com/Timb03/status/2086608189894840595)
+- [10 SEO Strategies](https://x.com/hridoyreh/status/2079502017647759871) - A practical search-growth checklist.
+- [SEO Guide for an App Website](https://x.com/manoj_ahi/status/2068266547098054722) - Improve an app landing page's search performance.
+- [Quick Search Ranking](https://x.com/Timb03/status/2086608189894840595) - Tactics for reaching search results quickly.
 
+</details>
 
-### Guides
+<details>
+<summary><strong>Acquisition & Growth</strong> — 6 playbooks</summary>
 
-- [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
-- [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
-- [the dark psychology for hooks/captions](https://x.com/adriansolarzz/status/2043751295572742448)
-- [Social media comments and AI personalised messages to get users](https://x.com/_aaronpaul25/status/2054980736445276191)
-- [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
-- [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
-- [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
-- [how to predict v*rality](https://x.com/fuckgrowth/status/2041580077826371733)
-- [Intro to neuromarketing](https://x.com/karlocreates/status/2044737952140398898)
-- [Finding viral videos and replicating them](https://x.com/KCodes7777/status/2046941516388516250)
-- [How We're Running AUTOMATED Viral AI UGC on YT + IG + TikTok + Facebook](https://x.com/adriansolarzz/status/2050371027780215205)
-- [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
-- [Instagram Carousels tutorial + warmup](https://x.com/adriansolarzz/status/2055831018104361239)
-- [Our Entire AI Instagram Carousel Workflow (Step-by-Step)](https://x.com/ugcmaxxr/status/2057145596289405284)
-- [How To Print With Meta Carousels](https://x.com/adriansolarzz/status/2058336861462958248)
+- [ASO to Market Your App](https://x.com/starter_story/status/2050731527550701871) - Use App Store optimization as an acquisition channel.
+- [The 5 Ways to Scale Your App](https://x.com/ErnestoSOFTWARE/status/2038622376640864287) - A framework for choosing growth channels.
+- [Social Comments and Personalized AI Messages](https://x.com/_aaronpaul25/status/2054980736445276191) - Turn relevant conversations into user acquisition.
+- [Reddit to Your First 100 Customers](https://x.com/TimJayas/status/2042879715464376626) - A lightweight community-led routine.
+- [Grow an App from 0 to 100K Users](https://x.com/DeRonin_/status/2038235735120101529) - A complete growth playbook.
+- [Finding Viral Videos and Replicating Them](https://x.com/KCodes7777/status/2046941516388516250) - Research formats before producing creative.
+
+</details>
+
+<details>
+<summary><strong>Creative Strategy & Virality</strong> — 4 playbooks</summary>
+
+- [Psychology for Hooks and Captions](https://x.com/adriansolarzz/status/2043751295572742448) - Apply behavioral principles to creative.
+- [How to Actually Go Viral](https://x.com/twoclipping/status/2043383780963143715) - Structure videos for stronger distribution.
+- [How to Predict Virality](https://x.com/fuckgrowth/status/2041580077826371733) - Evaluate content before scaling it.
+- [Introduction to Neuromarketing](https://x.com/karlocreates/status/2044737952140398898) - Understand the attention and decision triggers behind creative.
+
+</details>
+
+<details>
+<summary><strong>Automation & Carousels</strong> — 5 playbooks</summary>
+
+- [Automated Viral AI UGC Across Four Platforms](https://x.com/adriansolarzz/status/2050371027780215205) - Operate a multi-channel content pipeline.
+- [7M YouTube Views with Automated Content](https://x.com/maubaron/status/2030716132093460742) - Study a scaled automation case study.
+- [Instagram Carousels Tutorial and Warmup](https://x.com/adriansolarzz/status/2055831018104361239) - Prepare an account and publish carousel content.
+- [Complete AI Instagram Carousel Workflow](https://x.com/ugcmaxxr/status/2057145596289405284) - Build a repeatable creation pipeline.
+- [How to Win with Meta Carousels](https://x.com/adriansolarzz/status/2058336861462958248) - Improve carousel performance on Meta platforms.
+
+</details>
 
 ---
 
 ## TikTok
 
-- [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
-- [TikTok Downloader](https://snaptik.app/en2)
-- [Pinterest](https://pinterest.com)
-- [CapCut - Editing](https://www.capcut.com/)
-- [Reel Farm - Slideshow generator](https://reel.farm/)
-- [Scroll Show - Slideshow MCP](https://scroll.show/#)
+### Toolkit
 
-  
-### Account & Ads Setup
+- [Spark Ads](https://ads.tiktok.com/help/article/spark-ads) - TikTok's guide to boosting organic posts as ads.
+- [TikTok Downloader](https://snaptik.app/en2) - Save reference videos for creative research.
+- [Pinterest](https://pinterest.com) - Source visual ideas and slideshow references.
+- [CapCut](https://www.capcut.com/) - Edit short-form video.
+- [Reel Farm](https://reel.farm/) - Generate slideshow content.
+- [Scroll Show](https://scroll.show/#) - Create slideshows through an MCP workflow.
 
-- [TikTok account warmup](https://x.com/affprinter/status/2051045309728580038)
-- [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505)
-- [How to make a USA tiktok business account](https://x.com/athcanft/status/2039571658474930177)
-- [Bypassing tiktok duplication detectction system](https://x.com/affprinter/status/2050530621483548936)
-- [How to Run TikTok Ads for Mobile Apps](https://x.com/_frederickjames/status/2058918238046613507)
+<details>
+<summary><strong>Account & Ads Setup</strong> — 5 guides</summary>
 
+- [TikTok Account Warmup](https://x.com/affprinter/status/2051045309728580038) - Prepare a new account before publishing at volume.
+- [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505) - Understand location targeting considerations.
+- [Create a US TikTok Business Account](https://x.com/athcanft/status/2039571658474930177) - Walk through business-account setup.
+- [Understanding TikTok's Duplicate-Content Detection](https://x.com/affprinter/status/2050530621483548936) - Learn how reused content is identified.
+- [Run TikTok Ads for Mobile Apps](https://x.com/_frederickjames/status/2058918238046613507) - Set up an app-focused advertising campaign.
 
-### Guides
+</details>
 
-- [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
-- [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
-- [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
-- [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
-- [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
-- [How to create a US TikTok automatic posting service for dummies](https://x.com/MikelCobian/status/2057019625372574184)
+<details>
+<summary><strong>Growth & Distribution</strong> — 6 guides</summary>
 
+- [Full TikTok Pipeline](https://x.com/the_smart_ape/status/2044326151619785095) - Connect research, creation, and publishing.
+- [10 TikTok Growth Tactics for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834) - Improve reach for an app-focused profile.
+- [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441) - Reduce the time required to create consistently.
+- [I Spent One Week Making TikToks](https://x.com/adensdk/status/2043763099841302908) - Lessons from a short publishing experiment.
+- [Promote an App Through Comments](https://x.com/affprinter/status/2036070906821505407) - Use conversations as a distribution channel.
+- [Build a US TikTok Auto-Posting Service](https://x.com/MikelCobian/status/2057019625372574184) - Automate publishing infrastructure.
 
-### Slideshows
+</details>
 
-- [How I automated my TikTok content workflow from scratch](https://x.com/adriamatz/status/2057074664145322161)
-- [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
-- [Analyzed 1,000+ Slideshows - slide 2 is as important as 1](https://x.com/adriansolarzz/status/2057951578854695211)
-- [The 5 minute slideshow format that became my best converting TikTok content](https://x.com/adriamatz/status/2059558072582873134)
-- [Automating TikTok Slideshow Content with Codex GPT-5.5 and ChatGPT images 2.0 (Step by step guide)](https://x.com/alexcooldev/status/2047715075457507452)
-- [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step GUIDE)](https://x.com/maverickecom/status/2048771914206777752)
+<details>
+<summary><strong>Slideshows</strong> — 6 guides</summary>
+
+- [Automate a TikTok Content Workflow from Scratch](https://x.com/adriamatz/status/2057074664145322161) - Build the full slideshow pipeline.
+- [How to Make $100K/Month with AI Slideshows](https://x.com/roman_khaves/status/2037610375177224672) - Study a high-volume commercial workflow.
+- [Lessons from 1,000+ Slideshows](https://x.com/adriansolarzz/status/2057951578854695211) - Understand why slide two matters as much as the hook.
+- [The Five-Minute Slideshow Format](https://x.com/adriamatz/status/2059558072582873134) - Reproduce a strong-converting format efficiently.
+- [Automate Slideshows with Codex and ChatGPT Images](https://x.com/alexcooldev/status/2047715075457507452) - Create the workflow with OpenAI tools.
+- [Automate Slideshows with Claude](https://x.com/maverickecom/status/2048771914206777752) - Build an alternative agent-driven workflow.
+
+</details>
 
 ---
 
 ## UGC & Content Creation
 
-### Tools
+<details>
+<summary><strong>Creation Stack</strong> — 10 tools</summary>
 
-- [Apify - Web scraper](https://apify.com/store)
-- [SlideShift - UGC recruitment](https://sideshift.app/) 
-- [Arcads - Video gen](https://www.arcads.ai/)
-- [Runway - Video gen](https://runwayml.com/)
-- [HeyGen - Video gen](https://www.heygen.com/en-gb)
-- [Pollo - Video gen](https://pollo.ai/)
-- [Fastlane - Video gen](https://www.usefastlane.ai/)
-- [Bluma - AI engine](https://www.getbluma.com/)
-- [Magnific - Video gen](https://www.freepik.com/app)
-- [MakeUGC - AI UGC](https://www.makeugc.ai/)
+- [Apify](https://apify.com/store) - Collect research and source material with web scrapers.
+- [SlideShift](https://sideshift.app/) - Recruit UGC creators.
+- [Arcads](https://www.arcads.ai/) - Generate AI video ads.
+- [Runway](https://runwayml.com/) - Generate and edit video with AI.
+- [HeyGen](https://www.heygen.com/en-gb) - Create avatar-led video.
+- [Pollo](https://pollo.ai/) - Generate AI video across multiple models.
+- [Fastlane](https://www.usefastlane.ai/) - Produce AI-powered video creative.
+- [Bluma](https://www.getbluma.com/) - Power content workflows with an AI engine.
+- [Magnific](https://www.freepik.com/app) - Enhance and generate visual assets.
+- [MakeUGC](https://www.makeugc.ai/) - Produce AI-generated UGC ads.
 
+</details>
 
-### Guides
+<details>
+<summary><strong>Content Playbooks</strong> — 6 guides</summary>
 
-- [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
-- [How to create an AI Influencer](https://x.com/FrederikFeldt/status/2044252573083779223)
-- [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
-- [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
-- [how to build an AI content machine (step-by-step playbook)](https://x.com/sferro21/status/2043685806443773988)
-- [how to get good at UGC in one month](https://x.com/alexolim_/status/2044792086122082307)
+- [Master AI Content](https://x.com/maxxmalist/status/2029262055555969297) - A step-by-step creative playbook.
+- [Create an AI Influencer](https://x.com/FrederikFeldt/status/2044252573083779223) - Build a repeatable virtual-creator workflow.
+- [Why Your Content Won't Blow Up](https://x.com/jessieclipping/status/2027030716219822359) - Diagnose weak creative and distribution.
+- [Turn Kling and Viral Reels into Brand Revenue](https://x.com/adriansolarzz/status/2042588532011586026) - Study an AI-video commercial workflow.
+- [Build an AI Content Machine](https://x.com/sferro21/status/2043685806443773988) - Systematize research, generation, and publishing.
+- [Get Good at UGC in One Month](https://x.com/alexolim_/status/2044792086122082307) - Follow a focused practice plan.
+
+</details>
 
 ---
 
 ## Claude Code, Codex & AI Skills
 
-- [Top 50 Claude Skills & GitHub Repos for AI](https://x.com/zodchiii/status/2034924354337714642)
-- [Top 20 Claude Code Commands Everyone Should Know](https://x.com/zodchiii/status/2038909113795584094)
-- [10 Claude Code features from the official docs that nobody uses](https://x.com/sharbel/status/2040461006757892273)
-- [10 things to stop hitting Claude's usage limits](https://x.com/0x_kaize/status/2038286026284667239)
-- [The Complete Guide to Building Skills for Claude/Codex](https://x.com/rohit4verse/status/2021622526112358663)
-- [Best Practices for Claude Code](https://x.com/Meer_AIIT/status/2027509711722188976)
-- [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619)
-- [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)
+<details>
+<summary><strong>Skills & Workflows</strong> — 4 guides</summary>
+
+- [Top 50 Claude Skills and GitHub Repositories](https://x.com/zodchiii/status/2034924354337714642) - Discover reusable agent capabilities.
+- [Complete Guide to Building Skills for Claude and Codex](https://x.com/rohit4verse/status/2021622526112358663) - Design your own repeatable workflows.
+- [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378) - Learn how skills are used in practice.
+- [Best Practices for Claude Code](https://x.com/Meer_AIIT/status/2027509711722188976) - Structure reliable coding-agent sessions.
+
+</details>
+
+<details>
+<summary><strong>Commands, Features & Efficiency</strong> — 4 guides</summary>
+
+- [Top 20 Claude Code Commands](https://x.com/zodchiii/status/2038909113795584094) - Learn the most useful everyday commands.
+- [10 Underused Claude Code Features](https://x.com/sharbel/status/2040461006757892273) - Find capabilities hidden in the documentation.
+- [10 Ways to Avoid Claude Usage Limits](https://x.com/0x_kaize/status/2038286026284667239) - Use context and tokens more efficiently.
+- [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619) - Practical advice from Claude Code's creator.
+
+</details>
 
 ---
 
 ## Automation with Agents
 
-- [What Hermes Agent Can Do for You (And Why It Matters)](https://x.com/blocmates/status/2042539396638085339)
-- [How Larry Got Millions of TikTok Views in One Week — Full Guide](https://x.com/oliverhenry/status/2022011925903667547)
-- [Self-Improving Vibe Marketer for a $300k/yr App](https://x.com/ErnestoSOFTWARE/status/2033917717762191659)
-- [How I Completely Automated My iOS App's Tiktok Account With Openclaw](https://x.com/ashen_one/status/2041925268818788390)
-- [Using Paperclip to run marketing](https://x.com/wickedguro/status/2039344437374156948)
+Examples of agents operating complete marketing workflows instead of isolated generation tasks.
+
+- [What Hermes Agent Can Do](https://x.com/blocmates/status/2042539396638085339) - Explore general-purpose agent workflows.
+- [How Larry Got Millions of TikTok Views in One Week](https://x.com/oliverhenry/status/2022011925903667547) - Study a high-output autonomous content case study.
+- [Self-Improving Vibe Marketer for a $300K/Year App](https://x.com/ErnestoSOFTWARE/status/2033917717762191659) - Build feedback loops into an app's marketing agent.
+- [Automate an iOS App's TikTok with OpenClaw](https://x.com/ashen_one/status/2041925268818788390) - Connect content creation and publishing end to end.
+- [Use Paperclip to Run Marketing](https://x.com/wickedguro/status/2039344437374156948) - Coordinate marketing work through an agent system.
