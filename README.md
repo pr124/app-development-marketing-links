@@ -1,10 +1,12 @@
-# App Development And Marketing Links
+# App Development & Marketing Links
 
-A curated collection of resources for indie mobile app developers — from design and development to marketing and monetization.
+A curated toolkit for indie mobile app developers — from finding an idea and designing the product to onboarding, growth, content, and automation.
+
+> Browse by the stage of your app journey. Each section combines useful tools, visual references, and practical playbooks.
 
 ## Table of Contents
 
-- [General](#general)
+- [Core Tools](#core-tools)
 - [Ideas & Guides](#ideas--guides)
 - [Fonts, Colors & Icons](#fonts-colors--icons)
 - [UI/UX Design](#uiux-design)
@@ -12,12 +14,14 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Marketing](#marketing)
 - [TikTok](#tiktok)
 - [UGC & Content Creation](#ugc--content-creation)
-- [Claude Code, Codex & Skills](#claude-code-codex--aI-skills)
-- [Automation with Agents](#Automation-with-Agents)
+- [Claude Code, Codex & AI Skills](#claude-code-codex--ai-skills)
+- [Automation with Agents](#automation-with-agents)
 
 ---
 
-## General
+## Core Tools
+
+Essential services for building, shipping, measuring, and monetizing an app.
 
 | Resource | Category |
 |----------|----------|
@@ -36,7 +40,7 @@ A curated collection of resources for indie mobile app developers — from desig
 | [Sentry](https://sentry.io/welcome/) | Crash and Error tracking |
 | [Google Analytics](https://firebase.google.com/docs/analytics) | Analytics |
 | [Postiz](https://postiz.com/) | Agentic social media scheduling |
-| [TrustMRR](https://trustmrr.com/) | Startup Revenues
+| [TrustMRR](https://trustmrr.com/) | Startup revenue tracking |
 
 ---
 
@@ -60,13 +64,16 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## Fonts, Colors & Icons
 
-**Fonts**
+### Fonts
+
 - [Google Fonts](https://fonts.google.com/)
 
-**Colors**
+### Colors
+
 - [Coolors](https://coolors.co/) — Palette generator
 
-**Icons**
+### Icons
+
 - [Popular App Icons](https://icon.museum/)
 
 | Library | Pricing |
@@ -82,12 +89,14 @@ A curated collection of resources for indie mobile app developers — from desig
 
 > Profitable iOS apps have 1 thing in common — 3 easy retention loops: **streaks**, **reminders**, **weekly recaps**. Retention > features.
 
-**Animations**
+### Animations
+
 - [Lottie](https://lottiefiles.com/)
 - [Anim8](https://www.tryanim8.com/#product)
 - [Transitions](https://transitions.dev/)
 
-**Inspiration & Research**
+### Inspiration & Research
+
 - [Mobbin](https://mobbin.com/)
 - [Dribbble](https://dribbble.com/shots/popular/mobile)
 - [UXSnaps - UI breakdown](https://www.uxsnaps.com/)
@@ -95,11 +104,13 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Before.click - App Store screenshots](https://before.click/)
 - [60fps Design](https://60fps.design/apps)
 
-**Skills**
+### Skills
+
 - [Design/UI/UX Skills](https://impeccable.style/)
 - [UI skills list](https://www.ui-skills.com/)
 
-**Guides**
+### Guides
+
 - [5 Things Profitable iOS Apps Have in Common](https://x.com/Hartdrawss/status/2025865883533406380)
 - [Fix These 5 Screens to Make Your App Look 10x Better](https://x.com/heysatya_/status/2087165671583150546)
 - [How to Make Your App Look & Feel 10x Better](https://x.com/heysatya_/status/2078444307418345639)
@@ -107,55 +118,81 @@ A curated collection of resources for indie mobile app developers — from desig
 ---
 
 ## Onboarding
-**App Onboarding**
-- [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505)
-- [Anything](https://x.com/heysatya_/status/2065705525380321529)
-- [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806)
-- [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725)
-- [Abmaxx breakdown](https://x.com/LinoLeighton/status/2055684421018124717)
-- [Focus Town - Animal crossing](https://x.com/cesaralvarezll/status/2085442862628687876)
-- [Opal (breakdown 1)](https://x.com/cesaralvarezll/status/2032513612497969591)
-- [Opal (breakdown 2)](https://x.com/alice_ercolani/status/2036004810621948034)
-- [Amora](https://x.com/jacobrodri_/status/2052772037366821116)
-- [MacroFactor](https://x.com/VechAlex/status/2046607863720628259)
-- [Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833)
-- [Rock Identifier](https://x.com/adriamatz/status/2032410618381181130)
-- [Arise](https://x.com/adriamatz/status/2038943537564143716)
-- [Olive - Food Scanner](https://x.com/Siron93/status/2041171892778733627)
-- [Picture Bird - Identifier](https://x.com/adriamatz/status/2035696735138324620)
-- [Simply Piano](https://x.com/arielmichaeli/status/2044084374774198463)
-- [Wayk - Alarm](https://x.com/jacobrodri_/status/2044075947218063475)
-- [Yazio](https://x.com/cesaralvarezll/status/2044096283594379516)
-- [Tai Chi](https://x.com/adriamatz/status/2044368207239070020)
-- [Unrot](https://x.com/Siron93/status/2044424962392387755)
-- [Fastic](https://x.com/VechAlex/status/2045521925644902795)
-- [MenuFit](https://x.com/DannyIsLearning/status/2045674810349379709)
-- [Endel - Relaxation](https://x.com/cesaralvarezll/status/2047031965296030002)
-- [Speak - Language learning](https://x.com/cesaralvarezll/status/2051325688565596216)
-- [Reframe - Alcohol addiction](https://x.com/adriamatz/status/2050898481330471173)
-- [Focus Flight](https://x.com/matteo_spada/status/2051678619530133804)
-- [Focus Friend(game style onboarding)](https://x.com/cesaralvarezll/status/2054869365737017404)
-- [Fitia Calorie counter](https://x.com/VechAlex/status/2055326838923186255)
-- [Gravl Personal trainer(premium design)](https://x.com/adriamatz/status/2058804821809934636)
-- [Quabble Duck mascot](https://x.com/cesaralvarezll/status/2058938886659678389)
-- [SunSafe](https://x.com/VechAlex/status/2066920163358732793)
-- [Finch](https://x.com/JeremyLasne/status/2069005489493463417)
-- [Brainrot - brain mascot](https://x.com/cesaralvarezll/status/2078130587194257651)
-- [DAWG - Game themed app](https://x.com/adriamatz/status/2075110088356900929)
-- [Ahead](https://x.com/NathanGeckler/status/2075047318458347900)
-- [Me+ Lifestyle Routine - sell the product through onboarding](https://x.com/NathanGeckler/status/2080509129387389182)
-- [FishAI](https://x.com/adriamatz/status/2075472668812361920)
-- [BePresent](https://x.com/VechAlex/status/2092659052702507103)
 
-**Guides**
+Real-world onboarding teardowns, grouped by product type so it is easier to find a relevant pattern.
+
+> Compare the opening hook, personalization questions, progress cues, value reveal, trial timing, and paywall transition — not just the visual design.
+
+### Health, Fitness & Nutrition
+
+| App | Pattern to Study |
+|-----|------------------|
+| [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505) | AI calorie tracking |
+| [Abmaxx](https://x.com/LinoLeighton/status/2055684421018124717) | Fitness onboarding breakdown |
+| [MacroFactor](https://x.com/VechAlex/status/2046607863720628259) | Nutrition coaching |
+| [Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833) | Hydration habit building |
+| [Arise](https://x.com/adriamatz/status/2038943537564143716) | Calorie tracking |
+| [Olive](https://x.com/Siron93/status/2041171892778733627) | Food scanner |
+| [Yazio](https://x.com/cesaralvarezll/status/2044096283594379516) | Nutrition and fasting |
+| [Tai Chi](https://x.com/adriamatz/status/2044368207239070020) | Guided movement |
+| [Fastic](https://x.com/VechAlex/status/2045521925644902795) | Fasting plan |
+| [MenuFit](https://x.com/DannyIsLearning/status/2045674810349379709) | Personalized meal planning |
+| [Fitia](https://x.com/VechAlex/status/2055326838923186255) | Calorie counter |
+| [Gravl](https://x.com/adriamatz/status/2058804821809934636) | Premium personal trainer design |
+| [SunSafe](https://x.com/VechAlex/status/2066920163358732793) | Personalized health utility |
+
+### Focus, Habits & Lifestyle
+
+| App | Pattern to Study |
+|-----|------------------|
+| [Anything](https://x.com/heysatya_/status/2065705525380321529) | Polished general onboarding |
+| [Focus Town](https://x.com/cesaralvarezll/status/2085442862628687876) | Animal Crossing-inspired focus experience |
+| [Opal — breakdown 1](https://x.com/cesaralvarezll/status/2032513612497969591) | Screen-time positioning |
+| [Opal — breakdown 2](https://x.com/alice_ercolani/status/2036004810621948034) | Alternative teardown |
+| [Wayk](https://x.com/jacobrodri_/status/2044075947218063475) | Alarm setup |
+| [Unrot](https://x.com/Siron93/status/2044424962392387755) | Digital wellbeing |
+| [Focus Flight](https://x.com/matteo_spada/status/2051678619530133804) | Focus metaphor |
+| [Focus Friend](https://x.com/cesaralvarezll/status/2054869365737017404) | Game-style onboarding |
+| [Finch](https://x.com/JeremyLasne/status/2069005489493463417) | Self-care companion |
+| [Ahead](https://x.com/NathanGeckler/status/2075047318458347900) | Emotional growth |
+| [Me+](https://x.com/NathanGeckler/status/2080509129387389182) | Selling the product through onboarding |
+| [BePresent](https://x.com/VechAlex/status/2092659052702507103) | Screen-time habits |
+
+### Learning & Wellbeing
+
+| App | Pattern to Study |
+|-----|------------------|
+| [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806) | Goal setting and commitment |
+| [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725) | Calm, benefit-led onboarding |
+| [Simply Piano](https://x.com/arielmichaeli/status/2044084374774198463) | Skill-level personalization |
+| [Endel](https://x.com/cesaralvarezll/status/2047031965296030002) | Relaxation and soundscapes |
+| [Speak](https://x.com/cesaralvarezll/status/2051325688565596216) | Language-learning goals |
+| [Reframe](https://x.com/adriamatz/status/2050898481330471173) | Sensitive behavior change |
+| [Quabble](https://x.com/cesaralvarezll/status/2058938886659678389) | Duck mascot and friendly tone |
+
+### Distinctive Concepts & Utilities
+
+| App | Pattern to Study |
+|-----|------------------|
+| [Amora](https://x.com/jacobrodri_/status/2052772037366821116) | Relationship-focused onboarding |
+| [Rock Identifier](https://x.com/adriamatz/status/2032410618381181130) | Identification utility |
+| [Picture Bird](https://x.com/adriamatz/status/2035696735138324620) | Bird identification |
+| [Brainrot](https://x.com/cesaralvarezll/status/2078130587194257651) | Brain mascot |
+| [DAWG](https://x.com/adriamatz/status/2075110088356900929) | Game-themed experience |
+| [FishAI](https://x.com/adriamatz/status/2075472668812361920) | AI identification utility |
+
+### Guide
+
 - [Onboarding Structure Behind a 94% Paywall View Rate](https://x.com/maxzrco/status/2086919205601820831)
 
 ---
 
 ## Marketing
+
 <img width="500" height="493" alt="image" src="https://github.com/user-attachments/assets/39f7fe28-c89f-4318-9db7-95dd58eeae7f" />
 
-**Tools**
+### Tools
+
 - [Postiz - Post scheduling to all social media](https://postiz.com/)
 - [Post Bridge - Post scheduling to all social media](https://www.post-bridge.com/)
 - [Publora - Publishing API](https://publora.com/)
@@ -163,13 +200,15 @@ A curated collection of resources for indie mobile app developers — from desig
 - [MediaFast - Reddit SEO](https://www.mediafa.st/)
 
 
-**SEO**
+### SEO
+
 - [10 SEO strategies](https://x.com/hridoyreh/status/2079502017647759871)
 - [SEO guide for app website](https://x.com/manoj_ahi/status/2068266547098054722)
 - [Quick search ranking](https://x.com/Timb03/status/2086608189894840595)
 
 
-**Guides**
+### Guides
+
 - [ASO to market your app](https://x.com/starter_story/status/2050731527550701871)
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [the dark psychology for hooks/captions](https://x.com/adriansolarzz/status/2043751295572742448)
@@ -189,6 +228,7 @@ A curated collection of resources for indie mobile app developers — from desig
 ---
 
 ## TikTok
+
 - [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
 - [TikTok Downloader](https://snaptik.app/en2)
 - [Pinterest](https://pinterest.com)
@@ -197,7 +237,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Scroll Show - Slideshow MCP](https://scroll.show/#)
 
   
-**Account and Ads Setup**
+### Account & Ads Setup
+
 - [TikTok account warmup](https://x.com/affprinter/status/2051045309728580038)
 - [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505)
 - [How to make a USA tiktok business account](https://x.com/athcanft/status/2039571658474930177)
@@ -205,7 +246,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Run TikTok Ads for Mobile Apps](https://x.com/_frederickjames/status/2058918238046613507)
 
 
-**Guides**
+### Guides
+
 - [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 - [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
@@ -214,7 +256,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to create a US TikTok automatic posting service for dummies](https://x.com/MikelCobian/status/2057019625372574184)
 
 
-**Slideshows**
+### Slideshows
+
 - [How I automated my TikTok content workflow from scratch](https://x.com/adriamatz/status/2057074664145322161)
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [Analyzed 1,000+ Slideshows - slide 2 is as important as 1](https://x.com/adriansolarzz/status/2057951578854695211)
@@ -226,7 +269,8 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## UGC & Content Creation
 
-**Tools**
+### Tools
+
 - [Apify - Web scraper](https://apify.com/store)
 - [SlideShift - UGC recruitment](https://sideshift.app/) 
 - [Arcads - Video gen](https://www.arcads.ai/)
@@ -239,7 +283,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [MakeUGC - AI UGC](https://www.makeugc.ai/)
 
 
-**Guides**
+### Guides
+
 - [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
 - [How to create an AI Influencer](https://x.com/FrederikFeldt/status/2044252573083779223)
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
