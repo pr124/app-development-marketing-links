@@ -4,7 +4,7 @@ A curated toolkit for indie mobile app developers — from finding an idea and d
 
 > Browse by the stage of your app journey. Each section combines useful tools, visual references, and practical playbooks.
 
-## Table of Contents
+## Contents
 
 - [Core Tools](#core-tools)
 - [Ideas & Guides](#ideas--guides)
@@ -23,24 +23,30 @@ A curated toolkit for indie mobile app developers — from finding an idea and d
 
 Essential services for building, shipping, measuring, and monetizing an app.
 
-| Resource | Category |
-|----------|----------|
-| [Design Engineer Tools](https://designengineer.tools/) | Design |
-| [Canva](https://www.canva.com/) | Design |
-| [Components](https://component.gallery/) | Design |
-| [ScreenDesign](https://screensdesign.com/) | Onboarding |
-| [Vercel](https://vercel.com/) | Hosting |
-| [Supabase](https://supabase.com/) | Backend |
-| [RevenueCat](https://www.revenuecat.com/) | Subscriptions |
-| [Superwall](https://superwall.com/) | Paywalls |
-| [Posthog](https://posthog.com/) | Developer Tools |
-| [Astro](https://tryastro.app/) | ASO |
-| [AppStore Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) | AppStore CLI |
-| [SensorTower](https://app.sensortower.com/?app_tab=trending&category=0&app_id=6447582581) | App Analysis |
-| [Sentry](https://sentry.io/welcome/) | Crash and Error tracking |
-| [Google Analytics](https://firebase.google.com/docs/analytics) | Analytics |
-| [Postiz](https://postiz.com/) | Agentic social media scheduling |
-| [TrustMRR](https://trustmrr.com/) | Startup revenue tracking |
+### Design & Research
+
+- [Design Engineer Tools](https://designengineer.tools/) - Curated tools for design engineers.
+- [Canva](https://www.canva.com/) - Visual design and content creation.
+- [Components](https://component.gallery/) - UI component reference library.
+- [ScreenDesign](https://screensdesign.com/) - Mobile screen and onboarding inspiration.
+- [Sensor Tower](https://app.sensortower.com/?app_tab=trending&category=0&app_id=6447582581) - App-market and competitor research.
+
+### Build & Ship
+
+- [Vercel](https://vercel.com/) - Hosting and deployment.
+- [Supabase](https://supabase.com/) - Backend, database, authentication, and storage.
+- [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Manage App Store Connect from the command line.
+- [Sentry](https://sentry.io/welcome/) - Crash and error monitoring.
+
+### Monetization & Growth
+
+- [RevenueCat](https://www.revenuecat.com/) - Subscription infrastructure and analytics.
+- [Superwall](https://superwall.com/) - Paywall creation and testing.
+- [PostHog](https://posthog.com/) - Product analytics and developer tools.
+- [Astro](https://tryastro.app/) - App Store optimization.
+- [Google Analytics](https://firebase.google.com/docs/analytics) - Firebase-powered app analytics.
+- [Postiz](https://postiz.com/) - Agentic social-media scheduling.
+- [TrustMRR](https://trustmrr.com/) - Startup revenue tracking.
 
 ---
 
@@ -50,8 +56,8 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 > Profitable niches usually have 3 things: a clear before/after, a subscription people don't cancel, and a daily habit.
 
-- [App Store Tracker](https://www.appstoretracker.com/) — Track trending apps
-- [Google Trends](https://trends.google.com/explore?geo=US) — Spot rising search interest
+- [App Store Tracker](https://www.appstoretracker.com/) - Track trending apps
+- [Google Trends](https://trends.google.com/explore?geo=US) - Spot rising search interest
 - [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 - [Using TikTok Creator Search Insights to search for trending topics](https://x.com/natiakourdadze/status/2050336648077189166)
 - [I'm 16 and scaled an app to $30,000 MRR. Here's the full playbook](https://x.com/KevinBelfort_30/status/2059380434572595411)
@@ -70,18 +76,15 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 ### Colors
 
-- [Coolors](https://coolors.co/) — Palette generator
+- [Coolors](https://coolors.co/) - Palette generator
 
 ### Icons
 
-- [Popular App Icons](https://icon.museum/)
-
-| Library | Pricing |
-|---------|---------|
-| [Lucide](https://lucide.dev/) | Free |
-| [Phosphor Icons](https://phosphoricons.com/) | Free |
-| [Tabler Icons](https://tabler.io/icons) | Free |
-| [Iconoir](https://iconoir.com/) | Free |
+- [Popular App Icons](https://icon.museum/) - Browse recognizable app-icon references.
+- [Lucide](https://lucide.dev/) - Clean, consistent open-source icons.
+- [Phosphor Icons](https://phosphoricons.com/) - Flexible icon family with multiple weights.
+- [Tabler Icons](https://tabler.io/icons) - Large open-source SVG icon set.
+- [Iconoir](https://iconoir.com/) - Lightweight open-source icon library.
 
 ---
 
@@ -123,63 +126,67 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 
 > Compare the opening hook, personalization questions, progress cues, value reveal, trial timing, and paywall transition — not just the visual design.
 
-### Health, Fitness & Nutrition
+<details>
+<summary><strong>Health, Fitness & Nutrition</strong> — 13 examples</summary>
 
-| App | Pattern to Study |
-|-----|------------------|
-| [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505) | AI calorie tracking |
-| [Abmaxx](https://x.com/LinoLeighton/status/2055684421018124717) | Fitness onboarding breakdown |
-| [MacroFactor](https://x.com/VechAlex/status/2046607863720628259) | Nutrition coaching |
-| [Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833) | Hydration habit building |
-| [Arise](https://x.com/adriamatz/status/2038943537564143716) | Calorie tracking |
-| [Olive](https://x.com/Siron93/status/2041171892778733627) | Food scanner |
-| [Yazio](https://x.com/cesaralvarezll/status/2044096283594379516) | Nutrition and fasting |
-| [Tai Chi](https://x.com/adriamatz/status/2044368207239070020) | Guided movement |
-| [Fastic](https://x.com/VechAlex/status/2045521925644902795) | Fasting plan |
-| [MenuFit](https://x.com/DannyIsLearning/status/2045674810349379709) | Personalized meal planning |
-| [Fitia](https://x.com/VechAlex/status/2055326838923186255) | Calorie counter |
-| [Gravl](https://x.com/adriamatz/status/2058804821809934636) | Premium personal trainer design |
-| [SunSafe](https://x.com/VechAlex/status/2066920163358732793) | Personalized health utility |
+- [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505) - AI calorie tracking.
+- [Abmaxx](https://x.com/LinoLeighton/status/2055684421018124717) - Fitness onboarding breakdown.
+- [MacroFactor](https://x.com/VechAlex/status/2046607863720628259) - Nutrition coaching.
+- [Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833) - Hydration habit building.
+- [Arise](https://x.com/adriamatz/status/2038943537564143716) - Calorie tracking.
+- [Olive](https://x.com/Siron93/status/2041171892778733627) - Food scanner.
+- [Yazio](https://x.com/cesaralvarezll/status/2044096283594379516) - Nutrition and fasting.
+- [Tai Chi](https://x.com/adriamatz/status/2044368207239070020) - Guided movement.
+- [Fastic](https://x.com/VechAlex/status/2045521925644902795) - Fasting plan.
+- [MenuFit](https://x.com/DannyIsLearning/status/2045674810349379709) - Personalized meal planning.
+- [Fitia](https://x.com/VechAlex/status/2055326838923186255) - Calorie counter.
+- [Gravl](https://x.com/adriamatz/status/2058804821809934636) - Premium personal-trainer design.
+- [SunSafe](https://x.com/VechAlex/status/2066920163358732793) - Personalized health utility.
 
-### Focus, Habits & Lifestyle
+</details>
 
-| App | Pattern to Study |
-|-----|------------------|
-| [Anything](https://x.com/heysatya_/status/2065705525380321529) | Polished general onboarding |
-| [Focus Town](https://x.com/cesaralvarezll/status/2085442862628687876) | Animal Crossing-inspired focus experience |
-| [Opal — breakdown 1](https://x.com/cesaralvarezll/status/2032513612497969591) | Screen-time positioning |
-| [Opal — breakdown 2](https://x.com/alice_ercolani/status/2036004810621948034) | Alternative teardown |
-| [Wayk](https://x.com/jacobrodri_/status/2044075947218063475) | Alarm setup |
-| [Unrot](https://x.com/Siron93/status/2044424962392387755) | Digital wellbeing |
-| [Focus Flight](https://x.com/matteo_spada/status/2051678619530133804) | Focus metaphor |
-| [Focus Friend](https://x.com/cesaralvarezll/status/2054869365737017404) | Game-style onboarding |
-| [Finch](https://x.com/JeremyLasne/status/2069005489493463417) | Self-care companion |
-| [Ahead](https://x.com/NathanGeckler/status/2075047318458347900) | Emotional growth |
-| [Me+](https://x.com/NathanGeckler/status/2080509129387389182) | Selling the product through onboarding |
-| [BePresent](https://x.com/VechAlex/status/2092659052702507103) | Screen-time habits |
+<details>
+<summary><strong>Focus, Habits & Lifestyle</strong> — 12 examples</summary>
 
-### Learning & Wellbeing
+- [Anything](https://x.com/heysatya_/status/2065705525380321529) - Polished general onboarding.
+- [Focus Town](https://x.com/cesaralvarezll/status/2085442862628687876) - Animal Crossing-inspired focus experience.
+- [Opal — breakdown 1](https://x.com/cesaralvarezll/status/2032513612497969591) - Screen-time positioning.
+- [Opal — breakdown 2](https://x.com/alice_ercolani/status/2036004810621948034) - Alternative teardown.
+- [Wayk](https://x.com/jacobrodri_/status/2044075947218063475) - Alarm setup.
+- [Unrot](https://x.com/Siron93/status/2044424962392387755) - Digital wellbeing.
+- [Focus Flight](https://x.com/matteo_spada/status/2051678619530133804) - Focus metaphor.
+- [Focus Friend](https://x.com/cesaralvarezll/status/2054869365737017404) - Game-style onboarding.
+- [Finch](https://x.com/JeremyLasne/status/2069005489493463417) - Self-care companion.
+- [Ahead](https://x.com/NathanGeckler/status/2075047318458347900) - Emotional growth.
+- [Me+](https://x.com/NathanGeckler/status/2080509129387389182) - Selling the product through onboarding.
+- [BePresent](https://x.com/VechAlex/status/2092659052702507103) - Screen-time habits.
 
-| App | Pattern to Study |
-|-----|------------------|
-| [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806) | Goal setting and commitment |
-| [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725) | Calm, benefit-led onboarding |
-| [Simply Piano](https://x.com/arielmichaeli/status/2044084374774198463) | Skill-level personalization |
-| [Endel](https://x.com/cesaralvarezll/status/2047031965296030002) | Relaxation and soundscapes |
-| [Speak](https://x.com/cesaralvarezll/status/2051325688565596216) | Language-learning goals |
-| [Reframe](https://x.com/adriamatz/status/2050898481330471173) | Sensitive behavior change |
-| [Quabble](https://x.com/cesaralvarezll/status/2058938886659678389) | Duck mascot and friendly tone |
+</details>
 
-### Distinctive Concepts & Utilities
+<details>
+<summary><strong>Learning & Wellbeing</strong> — 7 examples</summary>
 
-| App | Pattern to Study |
-|-----|------------------|
-| [Amora](https://x.com/jacobrodri_/status/2052772037366821116) | Relationship-focused onboarding |
-| [Rock Identifier](https://x.com/adriamatz/status/2032410618381181130) | Identification utility |
-| [Picture Bird](https://x.com/adriamatz/status/2035696735138324620) | Bird identification |
-| [Brainrot](https://x.com/cesaralvarezll/status/2078130587194257651) | Brain mascot |
-| [DAWG](https://x.com/adriamatz/status/2075110088356900929) | Game-themed experience |
-| [FishAI](https://x.com/adriamatz/status/2075472668812361920) | AI identification utility |
+- [Duolingo](https://x.com/cesaralvarezll/status/2052070977471688806) - Goal setting and commitment.
+- [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725) - Calm, benefit-led onboarding.
+- [Simply Piano](https://x.com/arielmichaeli/status/2044084374774198463) - Skill-level personalization.
+- [Endel](https://x.com/cesaralvarezll/status/2047031965296030002) - Relaxation and soundscapes.
+- [Speak](https://x.com/cesaralvarezll/status/2051325688565596216) - Language-learning goals.
+- [Reframe](https://x.com/adriamatz/status/2050898481330471173) - Sensitive behavior change.
+- [Quabble](https://x.com/cesaralvarezll/status/2058938886659678389) - Duck mascot and friendly tone.
+
+</details>
+
+<details>
+<summary><strong>Distinctive Concepts & Utilities</strong> — 6 examples</summary>
+
+- [Amora](https://x.com/jacobrodri_/status/2052772037366821116) - Relationship-focused onboarding.
+- [Rock Identifier](https://x.com/adriamatz/status/2032410618381181130) - Identification utility.
+- [Picture Bird](https://x.com/adriamatz/status/2035696735138324620) - Bird identification.
+- [Brainrot](https://x.com/cesaralvarezll/status/2078130587194257651) - Brain mascot.
+- [DAWG](https://x.com/adriamatz/status/2075110088356900929) - Game-themed experience.
+- [FishAI](https://x.com/adriamatz/status/2075472668812361920) - AI identification utility.
+
+</details>
 
 ### Guide
 
