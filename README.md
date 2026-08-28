@@ -21,8 +21,9 @@ A curated collection of resources for indie mobile app developers — from desig
 
 | Resource | Category |
 |----------|----------|
-| [Design Engineer Tools](https://designengineer.tools/https://designengineer.tools/) | Design |
+| [Design Engineer Tools](https://designengineer.tools/) | Design |
 | [Canva](https://www.canva.com/) | Design |
+| [Components](https://component.gallery/) | Design |
 | [ScreenDesign](https://screensdesign.com/) | Onboarding |
 | [Vercel](https://vercel.com/) | Hosting |
 | [Supabase](https://supabase.com/) | Backend |
