@@ -86,8 +86,8 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 - [Lottie](https://lottiefiles.com/)
 - [Anim8](https://www.tryanim8.com/#product)
-- [Transitions](https://transitions.dev/)
-- [Beui](https://beui.dev/)
+- [Transitions - UI transitions](https://transitions.dev/)
+- [Beui - Animated components](https://beui.dev/)
 
 ### Inspiration & Research
 
