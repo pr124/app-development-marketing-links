@@ -8,8 +8,7 @@ A curated toolkit for indie mobile app developers — from finding an idea and d
 
 - [Core Tools](#core-tools)
 - [Ideas & Guides](#ideas--guides)
-- [Fonts, Colors & Icons](#fonts-colors--icons)
-- [UI/UX Design](#uiux-design)
+- [Design](#design)
 - [Onboarding](#onboarding)
 - [Marketing](#marketing)
 - [TikTok](#tiktok)
@@ -68,11 +67,7 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 ---
 
-## Fonts, Colors & Icons
-
-### Fonts
-
-- [Google Fonts](https://fonts.google.com/)
+## Design
 
 ### Colors
 
@@ -86,11 +81,6 @@ Essential services for building, shipping, measuring, and monetizing an app.
 - [Tabler Icons](https://tabler.io/icons) - Large open-source SVG icon set.
 - [Iconoir](https://iconoir.com/) - Lightweight open-source icon library.
 
----
-
-## UI/UX Design
-
-> Profitable iOS apps have 1 thing in common — 3 easy retention loops: **streaks**, **reminders**, **weekly recaps**. Retention > features.
 
 ### Animations
 
@@ -269,7 +259,6 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 
 - [TikTok Account Warmup](https://x.com/affprinter/status/2051045309728580038) - Prepare a new account before publishing at volume.
 - [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505) - Understand location targeting considerations.
-- [Create a US TikTok Business Account](https://x.com/athcanft/status/2039571658474930177) - Walk through business-account setup.
 - [Understanding TikTok's Duplicate-Content Detection](https://x.com/affprinter/status/2050530621483548936) - Learn how reused content is identified.
 - [Run TikTok Ads for Mobile Apps](https://x.com/_frederickjames/status/2058918238046613507) - Set up an app-focused advertising campaign.
 
@@ -354,15 +343,3 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 - [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619) - Practical advice from Claude Code's creator.
 
 </details>
-
----
-
-## Automation with Agents
-
-Examples of agents operating complete marketing workflows instead of isolated generation tasks.
-
-- [What Hermes Agent Can Do](https://x.com/blocmates/status/2042539396638085339) - Explore general-purpose agent workflows.
-- [How Larry Got Millions of TikTok Views in One Week](https://x.com/oliverhenry/status/2022011925903667547) - Study a high-output autonomous content case study.
-- [Self-Improving Vibe Marketer for a $300K/Year App](https://x.com/ErnestoSOFTWARE/status/2033917717762191659) - Build feedback loops into an app's marketing agent.
-- [Automate an iOS App's TikTok with OpenClaw](https://x.com/ashen_one/status/2041925268818788390) - Connect content creation and publishing end to end.
-- [Use Paperclip to Run Marketing](https://x.com/wickedguro/status/2039344437374156948) - Coordinate marketing work through an agent system.
