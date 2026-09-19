@@ -87,7 +87,8 @@ Essential services for building, shipping, measuring, and monetizing an app.
 - [Lottie](https://lottiefiles.com/)
 - [Anim8](https://www.tryanim8.com/#product)
 - [Transitions - UI transitions](https://transitions.dev/)
-- [Beui - Animated components](https://beui.dev/)
+- [Beui - React Native animated components](https://beui.dev/)
+- [Unified motion for React Native apps](https://screen-choreography.dev/)
 
 ### Inspiration & Research
 
@@ -102,7 +103,6 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 - [Design/UI/UX Skills](https://impeccable.style/)
 - [UI skills list](https://www.ui-skills.com/)
-- [Unified motion for React Native apps](https://screen-choreography.dev/)
 
 ### Guides
 
