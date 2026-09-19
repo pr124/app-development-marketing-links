@@ -184,6 +184,7 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 ### Guide
 
 - [Onboarding Structure Behind a 94% Paywall View Rate](https://x.com/maxzrco/status/2086919205601820831)
+- [First onboarding question - What is your goal?](https://x.com/LinoLeighton/status/2083659575509590326)
 
 ---
 
