@@ -227,8 +227,6 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 
 - [Psychology for Hooks and Captions](https://x.com/adriansolarzz/status/2043751295572742448) - Apply behavioral principles to creative.
 - [How to Actually Go Viral](https://x.com/twoclipping/status/2043383780963143715) - Structure videos for stronger distribution.
-- [How to Predict Virality](https://x.com/fuckgrowth/status/2041580077826371733) - Evaluate content before scaling it.
-- [Introduction to Neuromarketing](https://x.com/karlocreates/status/2044737952140398898) - Understand the attention and decision triggers behind creative.
 
 </details>
 
