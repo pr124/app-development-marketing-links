@@ -135,6 +135,7 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 - [Fitia](https://x.com/VechAlex/status/2055326838923186255) - Calorie counter.
 - [Gravl](https://x.com/adriamatz/status/2058804821809934636) - Premium personal-trainer design.
 - [SunSafe](https://x.com/VechAlex/status/2066920163358732793) - Personalized health utility.
+- [Daily Yoga](https://x.com/HmzBlackwell/status/2102358017153089742) - Fitness and wellness.
 
 </details>
 
