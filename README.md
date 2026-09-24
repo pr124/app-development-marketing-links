@@ -53,6 +53,8 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 <img width="574" height="442" alt="image" src="https://github.com/user-attachments/assets/7b53f6c0-be1a-49ff-91d0-9ee033313921" />
 
+<img width="574" alt="US app revenue growth versus time-spent growth by category, since 2025. Source: Sensor Tower, September 15, 2026; chart by a16z." src="assets/app-revenue-vs-usage-growth.webp" />
+
 > Profitable niches usually have 3 things: a clear before/after, a subscription people don't cancel, and a daily habit.
 
 - [App Store Tracker](https://www.appstoretracker.com/) - Track trending apps
