@@ -58,14 +58,9 @@ Essential services for building, shipping, measuring, and monetizing an app.
 > Profitable niches usually have 3 things: a clear before/after, a subscription people don't cancel, and a daily habit.
 
 - [App Store Tracker](https://www.appstoretracker.com/) - Track trending apps
-- [Google Trends](https://trends.google.com/explore?geo=US) - Spot rising search interest
-- [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
-- [Using TikTok Creator Search Insights to search for trending topics](https://x.com/natiakourdadze/status/2050336648077189166)
+- [Google Trends](https://trends.google.com/explore?geo=US) 
 - [I'm 16 and scaled an app to $30,000 MRR. Here's the full playbook](https://x.com/KevinBelfort_30/status/2059380434572595411)
 - [Scaled to $25k+/month — The Complete Guide](https://x.com/maubaron/status/2027551137768083619)
-- [Vibecode cleanup](https://x.com/shawmakesmagic/status/2044269097647779990)
-- [RevenueCat Paywalls Conversion](https://x.com/alwaysjoshp/status/2033910979353104658/)
-- [Market research from TikTok](https://x.com/StevenCravotta/status/2017688871648076159)
 
 ---
 
