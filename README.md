@@ -218,14 +218,8 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 - [Reddit to Your First 100 Customers](https://x.com/TimJayas/status/2042879715464376626) - A lightweight community-led routine.
 - [Grow an App from 0 to 100K Users](https://x.com/DeRonin_/status/2038235735120101529) - A complete growth playbook.
 - [Finding Viral Videos and Replicating Them](https://x.com/KCodes7777/status/2046941516388516250) - Research formats before producing creative.
-
-</details>
-
-<details>
-<summary><strong>Creative Strategy & Virality</strong> — 4 playbooks</summary>
-
 - [Psychology for Hooks and Captions](https://x.com/adriansolarzz/status/2043751295572742448) - Apply behavioral principles to creative.
-- [How to Actually Go Viral](https://x.com/twoclipping/status/2043383780963143715) - Structure videos for stronger distribution.
+
 
 </details>
 
