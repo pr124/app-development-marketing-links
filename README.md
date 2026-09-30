@@ -66,6 +66,15 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 ## Design
 
+### Inspiration & Research
+
+- [Mobbin](https://mobbin.com/)
+- [Dribbble](https://dribbble.com/shots/popular/mobile)
+- [UXSnaps - UI breakdown](https://www.uxsnaps.com/)
+- [Spottedinprod](https://www.spottedinprod.com/)
+- [Before.click - App Store screenshots](https://before.click/)
+- [60fps Design](https://60fps.design/apps)
+
 ### Colors
 
 - [Coolors](https://coolors.co/) - Palette generator
@@ -87,15 +96,7 @@ Essential services for building, shipping, measuring, and monetizing an app.
 - [Beui - React Native animated components](https://beui.dev/)
 - [Unified motion for React Native apps](https://screen-choreography.dev/)
 - [Animated React components](https://www.rareui.com/)
-
-### Inspiration & Research
-
-- [Mobbin](https://mobbin.com/)
-- [Dribbble](https://dribbble.com/shots/popular/mobile)
-- [UXSnaps - UI breakdown](https://www.uxsnaps.com/)
-- [Spottedinprod](https://www.spottedinprod.com/)
-- [Before.click - App Store screenshots](https://before.click/)
-- [60fps Design](https://60fps.design/apps)
+- 
 
 ### Skills
 
