@@ -202,6 +202,13 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 - [MediaFast](https://www.mediafa.st/) - Build visibility through Reddit SEO.
 
 <details>
+<summary><strong>Apple Ads</strong></summary>
+
+<img width="500" height="493" alt="image" src="https://github.com/user-attachments/assets/c424ba8e-752b-4403-8e98-f4e33a4569bd" />
+
+</details>
+
+<details>
 <summary><strong>SEO & Discoverability</strong> — 3 playbooks</summary>
 
 - [10 SEO Strategies](https://x.com/hridoyreh/status/2079502017647759871) - A practical search-growth checklist.
