@@ -165,6 +165,7 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 - [Speak](https://x.com/cesaralvarezll/status/2051325688565596216) - Language-learning goals.
 - [Reframe](https://x.com/adriamatz/status/2050898481330471173) - Sensitive behavior change.
 - [Quabble](https://x.com/cesaralvarezll/status/2058938886659678389) - Duck mascot and friendly tone.
+- [SlowRead](https://x.com/stat_biz/status/2108612456084099561) - Book tracker.
 
 </details>
 
