@@ -139,6 +139,7 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 <details>
 <summary><strong>Focus, Habits & Lifestyle</strong> — 12 examples</summary>
 
+- [Levla](https://x.com/edwin1/status/2109283629423616363) - RPG styled habit tracker.
 - [Anything](https://x.com/heysatya_/status/2065705525380321529) - Polished general onboarding.
 - [Focus Town](https://x.com/cesaralvarezll/status/2085442862628687876) - Animal Crossing-inspired focus experience.
 - [Opal — breakdown 1](https://x.com/cesaralvarezll/status/2032513612497969591) - Screen-time positioning.
