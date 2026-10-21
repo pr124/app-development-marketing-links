@@ -192,6 +192,7 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 ## Marketing
 
 <img width="500" height="493" alt="image" src="https://github.com/user-attachments/assets/39f7fe28-c89f-4318-9db7-95dd58eeae7f" />
+<img width="500" height="493" alt="image" src="https://github.com/user-attachments/assets/c65b9eaf-2c11-4154-85d4-dd146746a616" />
 
 Tools and playbooks for acquiring users, improving discoverability, and producing repeatable growth campaigns.
 
