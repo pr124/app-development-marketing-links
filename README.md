@@ -327,14 +327,6 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 
 ## Claude Code, Codex & AI Skills
 
-Add these to Agents.MD
-
-Cut taglines, helper text and secondary labels. If a screen needs them to make sense, fix the layout.
-
-Make the best decision that will elevate all three: the user experience (UX), developer experience (DX), and agent experience (AX) always, without breaking anything.
-
-Before you add code for a race condition or security edge case that is unlikely or purely hypothetical, tell me exactly what would go wrong, how likely that is, and how much complexity the extra code adds, in words a 10-year-old could understand. Then wait for my OK. Don't quietly widen the scope to guard against problems that only exist in theory.
-
 <details>
 <summary><strong>Skills & Workflows</strong> — 4 guides</summary>
 
@@ -346,7 +338,6 @@ Before you add code for a race condition or security edge case that is unlikely 
 - [AGENTS/Claude.md Imrpovements Part 2](https://x.com/Voxyz_ai/status/2113632785759973649)
 - [Claude Security Plugin](https://x.com/Voxyz_ai/status/2111200518379020292) - Claude uses agents to check the security of code.
 - [Claude self improvement after each session](https://x.com/EXM7777/status/2112544617707327774) - Ask Claude to find and fix any issues arised during the session.
-
 
 </details>
 
