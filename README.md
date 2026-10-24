@@ -327,9 +327,12 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 
 ## Claude Code, Codex & AI Skills
 
-Add to Agents.MD
+Add these to Agents.MD
+
 Cut taglines, helper text and secondary labels. If a screen needs them to make sense, fix the layout.
+
 Make the best decision that will elevate all three: the user experience (UX), developer experience (DX), and agent experience (AX) always, without breaking anything.
+
 Before you add code for a race condition or security edge case that is unlikely or purely hypothetical, tell me exactly what would go wrong, how likely that is, and how much complexity the extra code adds, in words a 10-year-old could understand. Then wait for my OK. Don't quietly widen the scope to guard against problems that only exist in theory.
 
 <details>
