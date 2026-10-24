@@ -342,6 +342,8 @@ Before you add code for a race condition or security edge case that is unlikely 
 - [Complete Guide to Building Skills for Claude and Codex](https://x.com/rohit4verse/status/2021622526112358663) - Design your own repeatable workflows.
 - [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378) - Learn how skills are used in practice.
 - [Best Practices for Claude Code](https://x.com/Meer_AIIT/status/2027509711722188976) - Structure reliable coding-agent sessions.
+- [AGENTS/Claude.md Imrpovements Part 1](https://x.com/Voxyz_ai/status/2113254050170843418)
+- [AGENTS/Claude.md Imrpovements Part 2](https://x.com/Voxyz_ai/status/2113632785759973649)
 - [Claude Security Plugin](https://x.com/Voxyz_ai/status/2111200518379020292) - Claude uses agents to check the security of code.
 - [Claude self improvement after each session](https://x.com/EXM7777/status/2112544617707327774) - Ask Claude to find and fix any issues arised during the session.
 
