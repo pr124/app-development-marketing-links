@@ -14,7 +14,6 @@ A curated toolkit for indie mobile app developers — from finding an idea and d
 - [TikTok](#tiktok)
 - [UGC & Content Creation](#ugc--content-creation)
 - [Claude Code, Codex & AI Skills](#claude-code-codex--ai-skills)
-- [Automation with Agents](#automation-with-agents)
 
 ---
 
