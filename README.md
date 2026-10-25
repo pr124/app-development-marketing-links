@@ -197,10 +197,10 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 
 ### Toolkit
 
+- [Remotion](https://www.remotion.dev/) - Create videos with AI.
 - [Postiz](https://postiz.com/) - Schedule content across social platforms.
 - [Post Bridge](https://www.post-bridge.com/) - Publish and schedule social content.
 - [Publora](https://publora.com/) - Add social publishing to automated workflows via API.
-- [VidAI](https://vid.ai/) - Generate AI video content.
 - [MediaFast](https://www.mediafa.st/) - Build visibility through Reddit SEO.
 
 <details>
