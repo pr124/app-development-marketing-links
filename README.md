@@ -337,6 +337,7 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 - [AGENTS/Claude.md Imrpovements Part 1](https://x.com/Voxyz_ai/status/2113254050170843418)
 - [AGENTS/Claude.md Imrpovements Part 2](https://x.com/Voxyz_ai/status/2113632785759973649)
 - [Claude Security Plugin](https://x.com/Voxyz_ai/status/2111200518379020292) - Claude uses agents to check the security of code.
+- [Claude usage audit](https://x.com/Voxyz_ai/status/2114416707385073819) - Claude looks through sessions and cuts down token waste.
 - [Claude self improvement after each session](https://x.com/EXM7777/status/2112544617707327774) - Ask Claude to find and fix any issues arised during the session.
 
 </details>
