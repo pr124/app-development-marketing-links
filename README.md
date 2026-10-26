@@ -104,6 +104,7 @@ Essential services for building, shipping, measuring, and monetizing an app.
 
 ### Guides
 
+- [Prompt to create product pages and search results from existing screenshots](https://x.com/MaxHirsch13/status/2108636735358058608)
 - [Fix These 5 Screens to Make Your App Look 10x Better](https://x.com/heysatya_/status/2087165671583150546)
 - [How to Make Your App Look & Feel 10x Better](https://x.com/heysatya_/status/2078444307418345639)
 
