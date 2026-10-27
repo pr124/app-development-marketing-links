@@ -96,6 +96,7 @@ Essential services for building, shipping, measuring, and monetizing an app.
 - [Beui - React Native animated components](https://beui.dev/)
 - [Unified motion for React Native apps](https://screen-choreography.dev/)
 - [Animated React components](https://www.rareui.com/)
+- [How to build motion design studio with Opus 5.5](https://x.com/0xMovez/status/2104216919033192746)
 
 ### Skills
 
