@@ -254,6 +254,7 @@ Tools and playbooks for acquiring users, improving discoverability, and producin
 
 - [Spark Ads](https://ads.tiktok.com/help/article/spark-ads) - TikTok's guide to boosting organic posts as ads.
 - [TikTok Downloader](https://snaptik.app/en2) - Save reference videos for creative research.
+- [DarkUGC](https://darkugc.com/) - Free UGC videos library
 - [Pinterest](https://pinterest.com) - Source visual ideas and slideshow references.
 - [CapCut](https://www.capcut.com/) - Edit short-form video.
 - [Reel Farm](https://reel.farm/) - Generate slideshow content.
